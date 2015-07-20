@@ -1,0 +1,5758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<stateList>
+	<state id="Alabama">
+		<team name="Alabama Crimson Tide alabama crimson tide">
+			<name>Alabama Crimson Tide</name>
+			<school>University of Alabama</school>
+			<city>Tuscaloosa</city>
+			<state>Alabama</state>
+			<colors>White, Crimson</colors>
+			<tagName>Alabama, University, of, UA, Bama, Crimson Tide, Big Al</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>Alabama</short>
+			<stadium>Bryant–Denny Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Alabama A and M Bulldogs Lady Bulldogs Bulldog alabama bulldogs">
+			<name>Alabama A and M Bulldogs and Lady Bulldogs</name>
+			<school>Alabama Agricultural and Mechanical University</school>
+			<city>Huntsville</city>
+			<state>Alabama</state>
+			<colors>Maroon, White</colors>
+			<tagName>Alabama A_M, University, AAMU, Bulldogs, Bulldog, Lady Bulldog</tagName>
+			<tagConference>SWAC, Western Athletic, Conference, Southwestern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>AAMU</short>
+			<stadium>Louis Crews Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Alabama State Hornets and Lady Hornets">
+			<name>Alabama State Hornets and Lady Hornets</name>
+			<school>Alabama State University</school>
+			<city>Montgomery</city>
+			<state>Alabama</state>
+			<colors>Black, Old Gold</colors>
+			<tagName>Alabama State, University, ALST, Hornets, Lady</tagName>
+			<tagConference>SWAC, Western Athletic, Conference, Southwestern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>Alabama State</short>
+			<stadium>The New ASU Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Auburn Tigers auburn tigers">
+			<name>Auburn Tigers</name>
+			<school>Auburn University</school>
+			<city>Auburn</city>
+			<state>Alabama</state>
+			<colors>Navy blue, Burnt orange</colors>
+			<tagName>Auburn, University, AU, Tigers, Aubie the Tiger</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>Auburn</short>
+			<stadium>Jordan–Hare Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Jacksonville State Gamecocks">
+			<name>Jacksonville State Gamecocks</name>
+			<school>Jacksonville State University</school>
+			<city>Jacksonville</city>
+			<state>Alabama</state>
+			<colors>Red, White</colors>
+			<tagName>Jacksonville State, University, JSU, Gamecocks</tagName>
+			<tagConference>Ohio Valley, OVC, Conference, OVC, tagConference</tagConference>
+			<division>Division I</division>
+			<short>JSU</short>
+			<stadium>Burgess–Snow Field at JSU Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Samford Bulldogs">
+			<name>Samford Bulldogs</name>
+			<school>Samford University</school>
+			<city>Homewood</city>
+			<state>Alabama</state>
+			<colors>Red, Blue</colors>
+			<tagName>Samford, University, SAM, Bulldogs</tagName>
+			<tagConference>Southern, Conference, SoCon</tagConference>
+			<division>Division I</division>
+			<short>Samford</short>
+			<stadium>Seibert Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="South Alabama Jaguars">
+			<name>South Alabama Jaguars</name>
+			<school>University of South Alabama</school>
+			<city>Mobile</city>
+			<state>Alabama</state>
+			<colors>Red, White, Blue</colors>
+			<tagName>South Alabama, University, USA, Jaguars, South Paw</tagName>
+			<tagConference>Sun Belt, SB, SBC, Conference</tagConference>
+			<division>Division I</division>
+			<short>South Alabama</short>
+			<stadium>Ladd Peebles Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Troy Trojans troy trojans">
+			<name>Troy Trojans</name>
+			<school>Troy University</school>
+			<city>Troy</city>
+			<state>Alabama</state>
+			<colors>Cardinal, Black, Silver</colors>
+			<tagName>Troy, University, Trojans, T-Roy</tagName>
+			<tagConference>Sun Belt, SB, SBC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Troy</short>
+			<stadium>Veterans Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="UAB Blazers uab blazers">
+			<name>UAB Blazers Alabama</name>
+			<school>University of Alabama at Birmingham</school>
+			<city>Birmingham</city>
+			<state>Alabama</state>
+			<colors>Green, Old Gold</colors>
+			<tagName>UAB, University, of, Alabama, at, Birmingham, Blazers, Blaze the Dragon</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>UAB</short>
+			<stadium>Legion Field</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Miles Golden Bears">
+			<name>Miles Golden Bears</name>
+			<school>Miles College</school>
+			<city>Birmingham</city>
+			<state>Alabama</state>
+			<colors>Purple, Gold</colors>
+			<tagName>Miles, Golden Bears, Miles College</tagName>
+			<tagConference>Southern Intercollegiate</tagConference>
+			<division>Division II</division>
+			<short>Miles College</short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Montevallo Falcons">
+			<name>Montevallo Falcons</name>
+			<school>University of Montevallo</school>
+			<city>Montevallo</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Peach Belt, Conference, PBC</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Stillman Tigers">
+			<name>Stillman Tigers</name>
+			<school>Stillman College</school>
+			<city>Tuscaloosa</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern Intercollegiate</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Tuskegee Golden Tigers">
+			<name>Tuskegee Golden Tigers</name>
+			<school>Tuskegee University</school>
+			<city>Tuskegee</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern Intercollegiate</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="UAH Chargers B">
+			<name>UAH Chargers B</name>
+			<school>University of Alabama in Huntsville</school>
+			<city>Huntsville</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Gulf South, Conference</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="North Alabama Lions">
+			<name>North Alabama Lions</name>
+			<school>University of North Alabama</school>
+			<city>Florence</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Gulf South, Conference</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="West Alabama Tigers">
+			<name>West Alabama Tigers</name>
+			<school>University of West Alabama</school>
+			<city>Livingston</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Gulf South, Conference</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Birmingham-Southern Panthers">
+			<name>Birmingham-Southern Panthers</name>
+			<school>Birmingham-Southern College</school>
+			<city>Birmingham</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern Athletic</tagConference>
+			<division>Division III</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Huntingdon Hawks">
+			<name>Huntingdon Hawks</name>
+			<school>Huntingdon College</school>
+			<city>Montgomery</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Great South</tagConference>
+			<division>Division III</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="AUM Senators">
+			<name>AUM Senators</name>
+			<school>Auburn University Montgomery</school>
+			<city>Montgomery</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern States</tagConference>
+			<division>NAIA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Faulkner Eagles">
+			<name>Faulkner Eagles</name>
+			<school>Faulkner University</school>
+			<city>Montgomery</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern States</tagConference>
+			<division>NAIA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Mobile Rams">
+			<name>Mobile Rams</name>
+			<school>University of Mobile</school>
+			<city>Mobile</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern States</tagConference>
+			<division>NAIA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Spring Hill Badgers">
+			<name>Spring Hill Badgers</name>
+			<school>Spring Hill College</school>
+			<city>Mobile</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern States</tagConference>
+			<division>NAIA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Talladega Tornadoes">
+			<name>Talladega Tornadoes</name>
+			<school>Talladega College</school>
+			<city>Talladega</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Gulf Coast</tagConference>
+			<division>NAIA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Alabama Southern Eagles">
+			<name>Alabama Southern Eagles</name>
+			<school>Alabama Southern Community College</school>
+			<city>Monroeville</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Bevill State-Sumiton">
+			<name>Bevill State-Sumiton</name>
+			<school>Bevill State Community College</school>
+			<city>Sumiton</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Bishop State Wildcats">
+			<name>Bishop State Wildcats</name>
+			<school>Bishop State Community College</school>
+			<city>Mobile</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Calhoun Warhawks">
+			<name>Calhoun Warhawks</name>
+			<school>Calhoun Community College</school>
+			<city>Decatur</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Central Alabama Trojans">
+			<name>Central Alabama Trojans</name>
+			<school>Central Alabama Community College</school>
+			<city>Alexander City</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		
+		<team name="Enterprise-Ozark Boll Weevils">
+			<name>Enterprise-Ozark Boll Weevils</name>
+			<school>Enterprise-Ozark Community College</school>
+			<city>Enterprise</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Faulkner State Sun Chiefs">
+			<name>Faulkner State Sun Chiefs</name>
+			<school>Faulkner State Community College</school>
+			<city>Bay Minette</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Gadsden State Cardinals">
+			<name>Gadsden State Cardinals</name>
+			<school>Gadsden State Community College</school>
+			<city>Gadsden</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Jefferson Davis Warhawks">
+			<name>Jefferson Davis Warhawks</name>
+			<school>Jefferson Davis Community College</school>
+			<city>Brewton</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Jefferson State Pioneers">
+			<name>Jefferson State Pioneers</name>
+			<school>Jefferson State Community College</school>
+			<city>Birmingham</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Lawson State Cougars">
+			<name>Lawson State Cougars</name>
+			<school>Lawson State Community College</school>
+			<city>Birmingham</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Lurleen B. Wallace Saints">
+			<name>Lurleen B. Wallace Saints</name>
+			<school>Lurleen B. Wallace Community College</school>
+			<city>Andalusia</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Marion Military Tigers">
+			<name>Marion Military Tigers</name>
+			<school>Marion Military Institute</school>
+			<city>Marion</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Northwest-Shoals Patriots">
+			<name>Northwest-Shoals Patriots</name>
+			<school>Northwest-Shoals Community College</school>
+			<city>Muscle Shoals</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Shelton State Buccaneers">
+			<name>Shelton State Buccaneers</name>
+			<school>Shelton State Community College</school>
+			<city>Tuscaloosa</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Snead State Parsons">
+			<name>Snead State Parsons</name>
+			<school>Snead State Community College</school>
+			<city>Boaz</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Southern Union State Bisons">
+			<name>Southern Union State Bisons</name>
+			<school>Southern Union State Community College</school>
+			<city>Wadley</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Wallace-Dothan Governors Wallace Community College">
+			<name>Wallace-Dothan Governors</name>
+			<school>Wallace Community College</school>
+			<city>Dothan</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Wallace-Selma Patriots Wallace Community College Selma">
+			<name>Wallace-Selma Patriots</name>
+			<school>Wallace Community College Selma</school>
+			<city>Selma</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Wallace State Lions Wallace State Community College">
+			<name>Wallace State Lions</name>
+			<school>Wallace State Community College</school>
+			<city>Hanceville</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Alabama CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Southeastern Bible Sabers">
+			<name>Southeastern Bible Sabers</name>
+			<school>Southeastern Bible College</school>
+			<city>Birmingham</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Independent</tagConference>
+			<division>NCCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Concordia-Selma Hornets Concordia College">
+			<name>Concordia-Selma Hornets</name>
+			<school>Concordia College</school>
+			<city>Selma</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Independent</tagConference>
+			<division>USCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Judson Eagles Judson College">
+			<name>Judson Eagles</name>
+			<school>Judson College</school>
+			<city>Marion</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Independent</tagConference>
+			<division>USCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Oakwood Ambassadors Oakwood University">
+			<name>Oakwood Ambassadors</name>
+			<school>Oakwood University</school>
+			<city>Huntsville</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Independent</tagConference>
+			<division>USCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Selma Bulldogs">
+			<school>Selma University</school>
+			<city>Selma</city>
+			<state>Alabama</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Independent</tagConference>
+			<division>USCAA</division>
+			<short>Selma Bulldogs</short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Alaska">
+		<team name="Alaska Nanooks">
+			<school>University of Alaska Fairbanks</school>
+			<city>Fairbanks</city>
+			<state>Alaska</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Great Northwest</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Alaska-Anchorage Seawolves">
+			<school>University of Alaska Anchorage</school>
+			<city>Anchorage</city>
+			<state>Alaska</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Great Northwest</tagConference>
+			<division>Division II</division>
+			<short>Alaska-Anchorage</short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Arizona">
+		<team name="Arizona Wildcats">
+			<name>Arizona Wildcats</name>
+			<school>University of Arizona</school>
+			<city>Tucson</city>
+			<state>Arizona</state>
+			<colors>Navy Blue, Cardinal Red</colors>
+			<tagName>Arizona, University, of, Arizona, UA, U of A, Wildcats, Wilbur</tagName>
+			<tagConference>Pac-12, Pacific-12, Conference</tagConference>
+			<division>Division I</division>
+			<short>Arizona</short>
+			<stadium>Arizona Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Arizona State Sun Devils">
+			<name>Arizona State Sun Devils</name>
+			<school>Arizona State University</school>
+			<city>Tempe</city>
+			<state>Arizona</state>
+			<colors>Maroon, Gold</colors>
+			<tagName>Arizona State, University, Sun Devils, Sparky, ASU</tagName>
+			<tagConference>Pac-12, Pacific-12, Conference</tagConference>
+			<division>Division I</division>
+			<short>Arizona State</short>
+			<stadium>Sun Devil Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Grand Canyon Antelopes">
+			<name>Grand Canyon Antelopes</name>
+			<school>Grand Canyon University</school>
+			<city>Phoenix</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>WAC, Western Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Northern Arizona Lumberjacks">
+			<name>Northern Arizona Lumberjacks</name>
+			<school>Northern Arizona University</school>
+			<city>Flagstaff</city>
+			<state>Arizona</state>
+			<colors>Navy, Gold</colors>
+			<tagName>Northern Arizona, University, NAU, Lumberjacks</tagName>
+			<tagConference>Big Sky, BSC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Northern Arizona</short>
+			<stadium>Walkup Skydome</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Arizona Christian Firestorm">
+			<name>Arizona Christian Firestorm</name>
+			<school>Arizona Christian University</school>
+			<city>Phoenix</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Golden State</tagConference>
+			<division>NAIA</division>
+			<short>Arizona Christian</short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Embry-Riddle Eagles">
+			<name>Embry-Riddle Eagles</name>
+			<school>Embry-Riddle Aeronautical University</school>
+			<city>Prescott</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>CalPac</tagConference>
+			<division>NAIA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Arizona Western Matadors">
+			<name>Arizona Western Matadors</name>
+			<school>Arizona Western College</school>
+			<city>Yuma</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Central Arizona Vaqueros">
+			<name>Central Arizona Vaqueros</name>
+			<school>Central Arizona College</school>
+			<city>Coolidge</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Chandler-Gilbert Coyotes">
+			<name>Chandler-Gilbert Coyotes</name>
+			<school>Chandler-Gilbert Community College</school>
+			<city>Chandler</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Cochise Apaches">
+			<name>Cochise Apaches</name>
+			<school>Cochise College</school>
+			<city>Douglas</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Eastern Arizona Gila Monster">
+			<name>Eastern Arizona Gila Monster</name>
+			<school>Eastern Arizona College</school>
+			<city>Thatcher</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="GateWay Gecko">
+			<name>GateWay Gecko</name>
+			<school>GateWay Community College</school>
+			<city>Phoenix</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Glendale Gauchos">
+			<name>Glendale Gauchos</name>
+			<school>Glendale Community College</school>
+			<city>Glendale</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Mesa Thunderbirds">
+			<name>Mesa Thunderbirds</name>
+			<school>Mesa Community College</school>
+			<city>Mesa</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Paradise Valley Pumas">
+			<name>Paradise Valley Pumas</name>
+			<school>Paradise Valley Community College</school>
+			<city>Phoenix</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Phoenix Bears">
+			<name>Phoenix Bears</name>
+			<school>Phoenix College</school>
+			<city>Phoenix</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Pima Aztecs">
+			<name>Pima Aztecs</name>
+			<school>Pima Community College</school>
+			<city>Tucson</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Scottsdale Fighting Artichokes">
+			<name>Scottsdale Fighting Artichokes</name>
+			<school>Scottsdale Community College</school>
+			<city>Scottsdale</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="South Mountain Cougars">
+			<name>South Mountain Cougars</name>
+			<school>South Mountain Community College</school>
+			<city>Phoenix</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Yavapai Roughriders">
+			<name>Yavapai Roughriders</name>
+			<school>Yavapai College</school>
+			<city>Prescott</city>
+			<state>Arizona</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Arizona CC</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Arkansas">
+		<team name="Arkansas Razorbacks arkansas razorbacks">
+			<name>Arkansas Razorbacks</name>
+			<school>University of Arkansas</school>
+			<city>Fayetteville</city>
+			<state>Arkansas</state>
+			<colors>Cardinal, White</colors>
+			<tagName>Arkansas, University, of, U of A, UARK, UA, Razorbacks, Hogs, Tusk, the Razorback</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>Arkansas</short>
+			<stadium>Donald W. Reynolds Razorback Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Arkansas Little Rock Trojans">
+			<name>Arkansas Little Rock Trojans</name>
+			<school>University of Arkansas at Little Rock</school>
+			<city>Little Rock</city>
+			<state>Arkansas</state>
+			<colors>Maroon, Silver, Black</colors>
+			<tagName>Arkansas Little Rock, University, of, UALR, Trojans</tagName>
+			<tagConference>Sun Belt, SB, SBC, Conference</tagConference>
+			<division>Division I</division>
+			<short>AR-Little Rock</short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Arkansas Pine Bluff Golden Lions">
+			<name>Arkansas Pine Bluff Golden Lions</name>
+			<school>University of Arkansas at Pine Bluff</school>
+			<city>Pine Bluff</city>
+			<state>Arkansas</state>
+			<colors>Black, Gold</colors>
+			<tagName>Arkansas-Pine Bluff, University of, Golden Lions, Golden Lion</tagName>
+			<tagConference>SWAC, Western Athletic, Conference, Southwestern Athletic</tagConference>
+			<division>Division I</division>
+			<short>Arkansas Pine Bluff</short>
+			<stadium>Golden Lion Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Arkansas State Red Wolves">
+			<name>Arkansas State Red Wolves</name>
+			<school>Arkansas State University</school>
+			<city>Jonesboro</city>
+			<state>Arkansas</state>
+			<colors>Scarlet, Black</colors>
+			<tagName>Arkansas State, University, Red Wolves, Howl</tagName>
+			<tagConference>Sun Belt, SB, SBC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Arkansas State</short>
+			<stadium>Centennial Bank Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Central Arkansas Bears and Sugar Bears central arkansas">
+			<name>Central Arkansas Bears and Sugar Bears</name>
+			<school>University of Central Arkansas</school>
+			<city>Conway</city>
+			<state>Arkansas</state>
+			<colors>Purple, Gray</colors>
+			<tagName>Central Arkansas, University, of, UCA, Bears, Sugar, Victor E. Bear</tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short>Central Arkansas</short>
+			<stadium>Estes Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Arkansas-Fort Smith Lions Arkansas Lions arkansas lions">
+			<name>Arkansas-Fort Smith Lions</name>
+			<school>University of Arkansas at Fort Smith</school>
+			<city>Fort Smith</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Heartland</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Arkansas-Monticello Boll Weevils and Cotton Blossoms">
+			<name>Arkansas-Monticello Boll Weevils and Cotton Blossoms</name>
+			<school>University of Arkansas at Monticello</school>
+			<city>Monticello</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Great American</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Arkansas Tech Wonder Boys and Golden Suns">
+			<name>Arkansas Tech Wonder Boys and Golden Suns</name>
+			<school>Arkansas Tech University</school>
+			<city>Russellville</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Great American</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Harding Bison Harding University">
+			<name>Harding Bison</name>
+			<school>Harding University</school>
+			<city>Searcy</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Great American</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Henderson State Reddies">
+			<name>Henderson State Reddies</name>
+			<school>Henderson State University</school>
+			<city>Arkadelphia</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Great American</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Ouachita Baptist Tigers and Tigerettes">
+			<name>Ouachita Baptist Tigers and Tigerettes</name>
+			<school>Ouachita Baptist University</school>
+			<city>Arkadelphia</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Great American</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Southern Arkansas Muleriders and Lady Muleriders">
+			<name>Southern Arkansas Muleriders and Lady Muleriders</name>
+			<school>Southern Arkansas University</school>
+			<city>Magnolia</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Great American</tagConference>
+			<division>Division II</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Hendrix Warriors">
+			<name>Hendrix Warriors</name>
+			<school>Hendrix College</school>
+			<city>Conway</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern Athletic</tagConference>
+			<division>Division III</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Ozarks Mountaineers">
+			<name>University of the Ozarks Mountaineers</name>
+			<school>University of the Ozarks</school>
+			<city>Clarksville</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>American Southwest</tagConference>
+			<division>Division III</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Central Baptist Mustangs">
+			<name>Central Baptist Mustangs</name>
+			<school>Central Baptist College</school>
+			<city>Conway</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Midlands Collegiate</tagConference>
+			<division>NAIA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="John Brown Golden Eagles">
+			<name>John Brown Golden Eagles</name>
+			<school>John Brown University</school>
+			<city>Siloam Springs</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Sooner</tagConference>
+			<division>NAIA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Lyon Scots and Pipers">
+			<name>Lyon Scots and Pipers</name>
+			<school>Lyon College</school>
+			<city>Batesville</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>American Midwest</tagConference>
+			<division>NAIA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Philander Smith Panthers">
+			<name>Philander Smith Panthers</name>
+			<school>Philander Smith College</school>
+			<city>Little Rock</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Gulf Coast</tagConference>
+			<division>NAIA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Williams Baptist Eagles">
+			<name>Williams Baptist Eagles</name>
+			<school>Williams Baptist College</school>
+			<city>Walnut Ridge</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>American Midwest</tagConference>
+			<division>NAIA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Arkansas Baptist Buffaloes">
+			<name>Arkansas Baptist Buffaloes</name>
+			<school>Arkansas Baptist College</school>
+			<city>Little Rock</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Region II</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Mid-South Greyhounds">
+			<name>Mid-South Greyhounds</name>
+			<school>Mid-South Community College</school>
+			<city>West Memphis</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Region II</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="North Arkansas Pioneers">
+			<name>North Arkansas Pioneers</name>
+			<school>North Arkansas College</school>
+			<city>Harrison</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Region II</tagConference>
+			<division>NJCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Crowley's Ridge Pioneers">
+			<name>Crowley's Ridge Pioneers</name>
+			<school>Crowley's Ridge College</school>
+			<city>Paragould</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Independent</tagConference>
+			<division>NCCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Ecclesia Royals">
+			<name>Ecclesia Royals</name>
+			<school>Ecclesia College</school>
+			<city>Springdale</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Independent</tagConference>
+			<division>NCCAA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Champion Baptist Tigers">
+			<name>Champion Baptist Tigers</name>
+			<school>Champion Baptist College</school>
+			<city>Hot Springs</city>
+			<state>Arkansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Independent</tagConference>
+			<division>ACCA</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="California">
+
+		<team name="Cal Poly Mustangs cal poly mustangs">
+			<name>Cal Poly Mustangs</name>
+			<school>California Polytechnic State University</school>
+			<city>San Luis Obispo</city>
+			<state>California</state>
+			<colors>Green, Gold</colors>
+			<tagName>Cal Poly, Mustangs, University, Polytechnic State</tagName>
+			<tagConference>Big West, BWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Cal Poly</short>
+			<stadium>Alex G. Spanos Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		
+		<team name="Cal State Fullerton Titans">
+			<name>Cal State Fullerton Titans</name>
+			<school>California State University, Fullerton</school>
+			<city>Fullerton</city>
+			<state>California</state>
+			<colors>Blue, Orange</colors>
+			<tagName>California State Fullerton, Cal State Fullerton, CSUF, CSU Fullerton, Titans, Tuffy the Titan</tagName>
+			<tagConference>Big West, BWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Cal State Fullerton</short>
+			<stadium>Titan Stadium (Cal State Fullerton)</stadium>
+			<sport>Football</sport>
+		</team>
+	
+		<team name="California Golden Bears">
+			<name>California Golden Bears</name>
+			<school>University of California, Berkeley</school>
+			<city>Berkeley</city>
+			<state>California</state>
+			<colors>Yale Blue, California Gold</colors>
+			<tagName>California, University, of, UC, Golden Bears, Oski</tagName>
+			<tagConference>Pac-12, Pacific-12, Conference</tagConference>
+			<division>Division I</division>
+			<short>UC</short>
+			<stadium>California Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Fresno State Bulldogs">
+			<name>Fresno State Bulldogs</name>
+			<school>California State University, Fresno</school>
+			<city>Fresno</city>
+			<state>California</state>
+			<colors>Cardinal red and Blue</colors>
+			<tagName>Fresno State, California, State, University, Fresno, Bulldogs, TimeOut</tagName>
+			<tagConference>Mountain West, MWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Fresno State</short>
+			<stadium>Bulldog Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Long Beach State 49ers">
+			<name>Long Beach State 49ers</name>
+			<school>California State University, Long Beach</school>
+			<city>Long Beach</city>
+			<state>California</state>
+			<colors>Gold, Black</colors>
+			<tagName>Long Beach State, California State, Long Beach, University, Cal State Long Beach, CSULB, LBSU, The Beach, 49ers, Prospector Pete</tagName>
+			<tagConference>Big West, BWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>LBSU</short>
+			<stadium>Veterans Memorial Stadium (Long Beach)</stadium>
+			<sport>Football</sport>
+		</team>
+		
+		<team name="Pacific Tigers">
+			<name>Pacific Tigers</name>
+			<school>University of the Pacific</school>
+			<city>Stockton</city>
+			<state>California</state>
+			<colors>Orange, Black</colors>
+			<tagName>Pacific Tigers, University, of, Pacific, Tigers</tagName>
+			<tagConference>WCC, West Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>Pacific Tigers</short>
+			<stadium>Stagg Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		
+		<team name="Sacramento State Hornets">
+			<name>Sacramento State Hornets</name>
+			<school>California State University, Sacramento</school>
+			<city>Sacramento</city>
+			<state>California</state>
+			<colors>Green, Gold</colors>
+			<tagName>Sacramento State, CSUS, CSU Sacramento, Cal State Sacramento, Hornets</tagName>
+			<tagConference>Big Sky, BSC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Sacramento State</short>
+			<stadium>Hornet Stadium (Sacramento State)</stadium>
+			<sport>Football</sport>
+		</team>
+		
+		<team name="San Diego Toreros">
+			<name>San Diego Toreros</name>
+			<school>University of San Diego</school>
+			<city>San Diego</city>
+			<state>California</state>
+			<colors>Navy blue, Columbia blue, White</colors>
+			<tagName>San Diego, University, Toreros</tagName>
+			<tagConference>WCC, West Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>San Diego</short>
+			<stadium>Torero Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="San Diego State Aztecs">
+			<name>San Diego State Aztecs</name>
+			<school>San Diego State University</school>
+			<city>San Diego</city>
+			<state>California</state>
+			<colors>Scarlet, Black, White</colors>
+			<tagName>San Diego State, University, Aztecs, Monty-Montezuma</tagName>
+			<tagConference>Mountain West, MWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>San Diego State</short>
+			<stadium>Qualcomm Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="San Francisco Dons">
+			<name>San Francisco Dons</name>
+			<school>University of San Francisco</school>
+			<city>San Francisco</city>
+			<state>California</state>
+			<colors>Green, Gold</colors>
+			<tagName>San Francisco, Dons, University</tagName>
+			<tagConference>WCC, West Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>San Francisco</short>
+			<stadium>Kezar Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="San Jose State Spartans">
+			<name>San Jose State Spartans</name>
+			<school>San Jose State University</school>
+			<city>San Jose</city>
+			<state>California</state>
+			<colors>Blue, Gold</colors>
+			<tagName>San Jose State, Spartans, University</tagName>
+			<tagConference>Mountain West, MWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>San Jose State</short>
+			<stadium>Spartan Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Santa Clara Broncos">
+			<name>Santa Clara Broncos</name>
+			<school>Santa Clara University</school>
+			<city>Santa Clara</city>
+			<state>California</state>
+			<colors>Red, White</colors>
+			<tagName>Santa Clara, Broncos, University</tagName>
+			<tagConference>WCC, West Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>Santa Clara</short>
+			<stadium>Buck Shaw Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Stanford Cardinal Stanford University">
+			<name>Stanford Cardinal</name>
+			<school>Stanford University</school>
+			<city>Palo Alto</city>
+			<state>California</state>
+			<colors>Cardinal, White</colors>
+			<tagName>Stanford, University, Cardinal, Stanford Tree</tagName>
+			<tagConference>Pac-12, Pacific-12, Conference</tagConference>
+			<division>Division I</division>
+			<short>Stanford</short>
+			<stadium>Stanford Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="UC Davis Aggies">
+			<name>UC Davis Aggies</name>
+			<school>University of California, Davis</school>
+			<city>Davis</city>
+			<state>California</state>
+			<colors>Aggie blue, Gold</colors>
+			<tagName>UC Davis, Aggies, University, of, California, Davis, UC</tagName>
+			<tagConference>Big West, BWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>UC Davis</short>
+			<stadium>Aggie Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		
+		<team name="UC Riverside Highlanders">
+			<name>UC Riverside Highlanders</name>
+			<school>University of California, Riverside</school>
+			<city>Riverside</city>
+			<state>California</state>
+			<colors>Sky Blue, Gold</colors>
+			<tagName>UC, Riverside, Highlanders, University, of, California</tagName>
+			<tagConference>Big West, BWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>UC Riverside</short>
+			<stadium>Highlander Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		
+		<team name="UCLA Bruins ucla">
+			<name>UCLA Bruins</name>
+			<school>University of California, Los Angeles</school>
+			<city>Los Angeles</city>
+			<state>California</state>
+			<colors>True Blue, Gold</colors>
+			<tagName>UCLA, University, of, California, Los Angeles, Bruins, Joe Bruin, Josephine Bruin</tagName>
+			<tagConference>Pac-12, Pacific-12, Conference</tagConference>
+			<division>Division I</division>
+			<short>UCLA</short>
+			<stadium>Rose Bowl</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="USC Trojans and Women of Troy usc trojans">
+			<name>USC Trojans and Women of Troy</name>
+			<school>University of Southern California</school>
+			<city>Los Angeles</city>
+			<state>California</state>
+			<colors>Cardinal, Gold</colors>
+			<tagName>USC, University, of, Southern California, Trojans, USC Traveler</tagName>
+			<tagConference>Pac-12, Pacific-12, Conference</tagConference>
+			<division>Division I</division>
+			<short>USC</short>
+			<stadium>Los Angeles Memorial Coliseum</stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+
+
+
+	<!-- update FIX ' division -> TagConference ' -->
+
+
+
+	<state id="Colorado">
+		<team name="Air Force Falcons">
+			<name>Air Force Falcons</name>
+			<school>United States Air Force Academy</school>
+			<city>Colorado Springs</city>
+			<state>Colorado</state>
+			<colors>Blue, Silver</colors>
+			<tagName>Air Force, USAFA, Academy, Falcons, The Bird</tagName>
+			<tagConference>Mountain West, MWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Air Force</short>
+			<stadium>Falcon Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Colorado Buffaloes">
+			<name>Colorado Buffaloes</name>
+			<school>University of Colorado at Boulder</school>
+			<city>Boulder</city>
+			<state>Colorado</state>
+			<colors>Silver, Gold</colors>
+			<tagName>Colorado, University, of, Boulder, CU-Boulder, CU, Buffaloes, Ralphie, Chip</tagName>
+			<tagConference>Pac-12, Pacific-12, Conference</tagConference>
+			<division>Division I</division>
+			<short>Colorado</short>
+			<stadium>Folsom Field</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Colorado State Rams">
+			<name>Colorado State Rams</name>
+			<school>Colorado State University</school>
+			<city>Ft. Collins</city>
+			<state>Colorado</state>
+			<colors>Green, Gold</colors>
+			<tagName>Colorado State, University, CSU, Rams, Cam The Ram</tagName>
+			<tagConference>Mountain West, MWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Colorado State</short>
+			<stadium>Sonny Lubick Field at Hughes Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Denver Pioneers</name>
+			<school>University of Denver</school>
+			<city>Denver</city>
+			<state>Colorado</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Summit</tagConference>
+			<division> </division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Northern Colorado Bears">
+			<name>Northern Colorado Bears</name>
+			<school>University of Northern Colorado</school>
+			<city>Greeley</city>
+			<state>Colorado</state>
+			<colors>Navy Blue, Gold</colors>
+			<tagName>Northern Colorado, Bears, University</tagName>
+			<tagConference>Big Sky, BSC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Northern Colorado</short>
+			<stadium>Nottingham Field</stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="Connecticut">
+		<team name="Central Connecticut Blue Devils">
+			<name>Central Connecticut Blue Devils</name>
+			<school>Central Connecticut State University</school>
+			<city>New Britain</city>
+			<state>Connecticut</state>
+			<colors>Blue, White</colors>
+			<tagName>Central Connecticut, Blue Devils, Central Connecticut State, University</tagName>
+			<tagConference>Northeast, Conference, NEC</tagConference>
+			<division>Division I</division>
+			<short>Central Connecticut</short>
+			<stadium>Arute Field</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="University of Connecticut Connecticut Huskies UConn uconn">
+			<name>Connecticut Huskies</name>
+			<school>University of Connecticut</school>
+			<city>East Hartford</city>
+			<state>Connecticut</state>
+			<colors>Navy, White</colors>
+			<tagName>Connecticut, UConn, University, of, Huskies, Jonathan the Husky</tagName>
+			<tagConference>American Athletic Conference, AAC, The American</tagConference>
+			<division>Division I</division>
+			<short>Connecticut</short>
+			<stadium>Rentschler Field</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Fairfield Stags</name>
+			<school>Fairfield University</school>
+			<city>Fairfield</city>
+			<state>Connecticut</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>MAAC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Hartford Hawks</name>
+			<school>University of Hartford</school>
+			<city>West Hartford</city>
+			<state>Connecticut</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>America East</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Quinnipiac Bobcats</name>
+			<school>Quinnipiac University</school>
+			<city>Hamden</city>
+			<state>Connecticut</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>MAAC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Sacred Heart Pioneers</name>
+			<school>Sacred Heart University</school>
+			<city>Fairfield</city>
+			<state>Connecticut</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Northeast</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Yale Bulldogs</name>
+			<school>Yale University</school>
+			<city>New Haven</city>
+			<state>Connecticut</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ivy League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="Delaware">
+		<team name="">
+			<name>Delaware Fightin' Blue Hens</name>
+			<school>University of Delaware</school>
+			<city>Newark</city>
+			<state>Delaware</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Colonial Athletic Association</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Delaware State Hornets and Lady Hornets">
+			<name>Delaware State Hornets and Lady Hornets</name>
+			<school>Delaware State University</school>
+			<city>Dover</city>
+			<state>Delaware</state>
+			<colors>Cherry Red, Columbia Blue</colors>
+			<tagName>Delaware State, University, DSU, DESU, Del State, Hornet, Hornets</tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>Delaware State</short>
+			<stadium>Alumni Stadium (Delaware State)</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="District of Columbia">
+		<team name="">
+			<name>American Eagles</name>
+			<school>American University</school>
+			<city>Washington</city>
+			<state>District of Columbia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Patriot</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>George Washington Colonials</name>
+			<school>The George Washington University</school>
+			<city>Washington</city>
+			<state>District of Columbia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic 10</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Georgetown Hoyas</name>
+			<school>Georgetown University</school>
+			<city>Washington</city>
+			<state>District of Columbia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big East, Big-East, BE, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Howard Bison and Lady Bison</name>
+			<school>Howard University</school>
+			<city>Washington</city>
+			<state>District of Columbia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Florida">
+		<team name="Bethune-Cookman Wildcats Bethune">
+			<name>Bethune-Cookman Wildcats</name>
+			<school>Bethune-Cookman University</school>
+			<city>Daytona Beach</city>
+			<state>Florida</state>
+			<colors>Maroon, Gold</colors>
+			<tagName>Bethune-Cookman, University, COOK, Wildcats, Wil D Cat</tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>Bethune-Cookman</short>
+			<stadium>Municipal Stadium (Daytona Beach)</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="FIU Panthers Florida International">
+			<name>FIU Panthers</name>
+			<school>Florida International University</school>
+			<city>Miami</city>
+			<state>Florida</state>
+			<colors>Blue, Gold</colors>
+			<tagName>Florida International, University, FIU, Panthers, Roary the Panther</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>FIU</short>
+			<stadium>FIU Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Florida Gators">
+			<name>Florida Gators</name>
+			<school>University of Florida</school>
+			<city>Gainesville</city>
+			<state>Florida</state>
+			<colors>Orange, Blue</colors>
+			<tagName>Florida, University, of, UF, U of F, Gators, Albert, Alberta, The Swamp, The O’Dome</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>Florida</short>
+			<stadium>Ben Hill Griffin Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Florida Rattlers Lady Rattlers">
+			<name>Florida A and M Rattlers and Lady Rattlers</name>
+			<school>Florida A and M University</school>
+			<city>Tallahassee</city>
+			<state>Florida</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Florida Atlantic Owls FAU">
+			<name>Florida Atlantic Owls</name>
+			<school>Florida Atlantic University</school>
+			<city>Boca Raton</city>
+			<state>Florida</state>
+			<colors>FAU Blue, FAU Red, FAU Silver</colors>
+			<tagName>FAU, Florida Atlantic, University, Owls, Owlsley</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>FAU</short>
+			<stadium>FAU Football Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Florida Gulf Coast Eagles FGCU">
+			<name>Florida Gulf Coast Eagles</name>
+			<school>Florida Gulf Coast University</school>
+			<city>Fort Myers</city>
+			<state>Florida</state>
+			<colors> </colors>
+			<tagName>Florida Gulf Coast, University, FGCU, Eagles</tagName>
+			<tagConference>Atlantic Sun, A-Sun, Conference</tagConference>
+			<division>Division I</division>
+			<short>FGCU</short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Florida State Seminoles FSU fsu">
+			<name>Florida State Seminoles</name>
+			<school>Florida State University</school>
+			<city>Tallahassee</city>
+			<state>Florida</state>
+			<colors>Garnet, Gold, White, Black</colors>
+			<tagName>Florida State, FSU, University, Seminoles, Osceola, Renegade</tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>FSU</short>
+			<stadium>Doak Campbell Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Jacksonville Dolphins">
+			<name>Jacksonville Dolphins</name>
+			<school>Jacksonville University</school>
+			<city>Jacksonville</city>
+			<state>Florida</state>
+			<colors> </colors>
+			<tagName>Jacksonville, University, JU, Dolphins, Nellie the Dolphin</tagName>
+			<tagConference>Atlantic Sun, A-Sun, Conference</tagConference>
+			<division>Division I</division>
+			<short>JU</short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Miami Hurricanes University of Miami UMiami">
+			<name>Miami Hurricanes</name>
+			<school>University of Miami</school>
+			<city>Coral Gables</city>
+			<state>Florida</state>
+			<colors>Green, Orange</colors>
+			<tagName>Miami, FL, University, Miami (FL), of, The U, UM, UMiami, Hurricanes, Sebastian the Ibis</tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>UM</short>
+			<stadium>Sun Life Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="North Florida Ospreys">
+			<name>North Florida Ospreys</name>
+			<school>University of North Florida</school>
+			<city>Jacksonville</city>
+			<state>Florida</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic Sun, A-Sun, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="South Florida Bulls USF usf">
+			<name>South Florida Bulls</name>
+			<school>University of South Florida</school>
+			<city>Tampa</city>
+			<state>Florida</state>
+			<colors>Green, Gold, White</colors>
+			<tagName>South Florida, University, of, USF, Bulls, Rocky the Bull</tagName>
+			<tagConference>American Athletic Conference, AAC, The American</tagConference>
+			<division>Division I</division>
+			<short>USF</short>
+			<stadium>Raymond James Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Stetson Hatters">
+			<name>Stetson Hatters</name>
+			<school>Stetson University</school>
+			<city>DeLand</city>
+			<state>Florida</state>
+			<colors> </colors>
+			<tagName>Stetson, University, Hatters</tagName>
+			<tagConference>Atlantic Sun, A-Sun, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="UCF Knights University of Central Florida knights Knightro ucf">
+			<name>UCF Knights University of Central Florida</name>
+			<school>University of Central Florida</school>
+			<city>Orlando</city>
+			<state>Florida</state>
+			<colors>Black, White, Gold</colors>
+			<tagName>University, of, Central Florida, UCF, Knights, Knightro</tagName>
+			<tagConference>American Athletic Conference, AAC, The American</tagConference>
+			<division>Division I</division>
+			<short>UCF</short>
+			<stadium>Bright House Networks Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Georgia">
+		<team name="Georgia Bulldogs and Lady Bulldogs bulldogs">
+			<name>Georgia Bulldogs and Lady Bulldogs</name>
+			<school>University of Georgia</school>
+			<city>Athens</city>
+			<state>Georgia</state>
+			<colors>Red, Black</colors>
+			<tagName>Georgia, University, of, UGA, Bulldogs, Uga, Hairy Dawg</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>Georgia</short>
+			<stadium>Sanford Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Georgia Southern Eagles">
+			<name>Georgia Southern Eagles</name>
+			<school>Georgia Southern University</school>
+			<city>Statesboro</city>
+			<state>Georgia</state>
+			<colors>Blue, White</colors>
+			<tagName>Georgia Southern, University, GASO, Freedom, GUS, Eagles</tagName>
+			<tagConference>Sun Belt, SB, SBC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Georgia Southern</short>
+			<stadium>Allen E. Paulson Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Georgia State Panthers">
+			<name>Georgia State Panthers</name>
+			<school>Georgia State University</school>
+			<city>Atlanta</city>
+			<state>Georgia</state>
+			<colors>Blue, White</colors>
+			<tagName>Georgia State, University, GSU, Panthers, Pounce</tagName>
+			<tagConference>Sun Belt, SB, SBC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Georgia State</short>
+			<stadium>Georgia Dome</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Georgia Tech Yellow Jackets">
+			<name>Georgia Tech Yellow Jackets</name>
+			<school>Georgia Institute of Technology</school>
+			<city>Atlanta</city>
+			<state>Georgia</state>
+			<colors>Old Gold, White</colors>
+			<tagName>Georgia Tech, GT, Yellow Jackets, G-Tech</tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>Georgia Tech</short>
+			<stadium>Bobby Dodd Stadium at Historic Grant Field</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Kennesaw State Owls">
+			<name>Kennesaw State Owls and Lady Owls</name>
+			<school>Kennesaw State University</school>
+			<city>Kennesaw</city>
+			<state>Georgia</state>
+			<colors>Black, Gold</colors>
+			<tagName>Kennesaw State, University, KSU, Owls, Scrappy the Owl</tagName>
+			<tagConference>Big South, Conference</tagConference>
+			<division>Division I</division>
+			<short>Kennesaw State</short>
+			<stadium>Fifth Third Bank Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Mercer Bears</name>
+			<school>Mercer University</school>
+			<city>Macon</city>
+			<state>Georgia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic Sun, A-Sun, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Savannah State Tigers">
+			<name>Savannah State Tigers and Lady Tigers</name>
+			<school>Savannah State University</school>
+			<city>Savannah</city>
+			<state>Georgia</state>
+			<colors>Burnt Orange, Reflex Blue</colors>
+			<tagName>Savannah State, University, Tigers, Savannah Tiger</tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>Savannah State</short>
+			<stadium>Ted Wright Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Hawaii">
+		<funfact id="ff1">In 2000, all teams at the university were allowed
+			to choose their own nicknames.</funfact>
+		<funfact id="ff2">Different men's teams are known as "Rainbow
+			Warriors", "Warriors", and "Rainbows"</funfact>
+		<funfact id="ff3">All women's teams use "Rainbow Wahine".</funfact>
+
+		<team name="Hawaii Rainbow Warriors and Rainbow Wahine">
+			<name>Hawaii Rainbow Warriors and Rainbow Wahine</name>
+			<school>University of Hawaii at Manoa</school>
+			<city>Honolulu</city>
+			<state>Hawaii</state>
+			<colors>Black, Green</colors>
+			<tagName>Hawaii, University, of, UH, UH Manoa, at, Manoa, Warriors, Rainbow, Warrior</tagName>
+			<tagConference>Mountain West, Conference, MWC</tagConference>
+			<division>Division I</division>
+			<short>Hawaii</short>
+			<stadium>Aloha Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Idaho">
+		<team name="Boise State Broncos">
+			<name>Boise State Broncos</name>
+			<school>Boise State University</school>
+			<city>Boise</city>
+			<state>Idaho</state>
+			<colors>Blue, Orange</colors>
+			<tagName>Boise State, BSU, University, Broncos, Buster Bronco</tagName>
+			<tagConference>Mountain West, MWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Boise State</short>
+			<stadium>Albertsons Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Idaho Vandals">
+			<name>Idaho Vandals</name>
+			<school>University of Idaho</school>
+			<city>Moscow</city>
+			<state>Idaho</state>
+			<colors>Silver, Gold</colors>
+			<tagName>Idaho, University, of, IDHO, Vandals, Joe Vandal</tagName>
+			<tagConference>Sun Belt, SB, SBC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Idaho</short>
+			<stadium>Kibbie Dome</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Idaho State Bengals">
+			<name>Idaho State Bengals</name>
+			<school>Idaho State University</school>
+			<city>Pocatello</city>
+			<state>Idaho</state>
+			<colors>Orange, Black</colors>
+			<tagName>Idaho State, University, ISU, Bengals, Benny the Bengal</tagName>
+			<tagConference>Big Sky, BSC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Idaho State</short>
+			<stadium>Holt Arena</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Illinois">
+
+		<funfact id="ff1">The national sports media usually refers to UIS as
+			"Illinois-Springfield."</funfact>
+		<funfact id="ff2">Wheaton is usually referred to as "Wheaton
+			(Illinois)" in order to differentiate it from Wheaton in
+			Massachusetts.</funfact>
+		<funfact id="ff3">The national sports media usually refers to Robert
+			Morris as "Robert Morris (Chicago)"
+		</funfact>
+		<funfact id="ff3">to separate it from other schools of the same
+			name, including the school's own branch campuses elsewhere in the
+			state</funfact>
+		<funfact id="ff3">and most notably the NCAA Division I institution
+			in Pennsylvania.</funfact>
+		<funfact id="ff4">The national sports media usually refers to Saint
+			Francis as "Saint Francis (Illinois)"
+		</funfact>
+		<funfact id="ff4">to distinguish it from other schools named Saint
+			Francis, such as the NAIA institution in Indiana
+		</funfact>
+		<funfact id="ff4">and most notably the NCAA Division I institutions
+			in Brooklyn and Pennsylvania.</funfact>
+
+		<team name="">
+			<name>Bradley Braves</name>
+			<school>Bradley University</school>
+			<city>Peoria</city>
+			<state>Illinois</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Missouri Valley</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Chicago State Cougars</name>
+			<school>Chicago State University</school>
+			<city>Chicago</city>
+			<state>Illinois</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>WAC, Western Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>DePaul Blue Demons</name>
+			<school>DePaul University</school>
+			<city>Chicago</city>
+			<state>Illinois</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big East, Big-East, BE, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Eastern Illinois Panthers</name>
+			<school>Eastern Illinois University</school>
+			<city>Charleston</city>
+			<state>Illinois</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ohio Valley, OVC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Illinois Fighting Illini">
+			<name>Illinois Fighting Illini</name>
+			<school>University of Illinois at Urbana-Champaign</school>
+			<city>Urbana-Champaign</city>
+			<state>Illinois</state>
+			<colors>Blue, Orange</colors>
+			<tagName>Illinois, University, of, U of I, UIUC, Fighting Illini, Orange Krush</tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short>Illinois</short>
+			<stadium>Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Illinois State Redbirds</name>
+			<school>Illinois State University</school>
+			<city>Normal</city>
+			<state>Illinois</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Missouri Valley</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Loyola Ramblers</name>
+			<school>Loyola University Chicago</school>
+			<city>Chicago</city>
+			<state>Illinois</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Missouri Valley</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Northern Illinois Huskies">
+			<name>Northern Illinois Huskies</name>
+			<school>Northern Illinois University</school>
+			<city>DeKalb</city>
+			<state>Illinois</state>
+			<colors>Cardinal, Black</colors>
+			<tagName>Northern Illinois, University, NIU, Huskies, Victor E. Huskie</tagName>
+			<tagConference>MAC, Mid-American, Conference, Mid American</tagConference>
+			<division>Division I</division>
+			<short>Northern Illinois</short>
+			<stadium>Huskie Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Northwestern Wildcats</name>
+			<school>Northwestern University</school>
+			<city>Evanston</city>
+			<state>Illinois</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Southern Illinois Salukis</name>
+			<school>Southern Illinois University Carbondale</school>
+			<city>Carbondale</city>
+			<state>Illinois</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Missouri Valley</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>SIUE Cougars</name>
+			<school>Southern Illinois University Edwardsville</school>
+			<city>Edwardsville</city>
+			<state>Illinois</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ohio Valley, OVC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>UIC Flames</name>
+			<school>University of Illinois at Chicago</school>
+			<city>Chicago</city>
+			<state>Illinois</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Horizon League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Western Illinois Leathernecks</name>
+			<school>Western Illinois University</school>
+			<city>Macomb</city>
+			<state>Illinois</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Summit</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="Indiana">
+		<team name="">
+			<name>Ball State Cardinals</name>
+			<school>Ball State University</school>
+			<city>Muncie</city>
+			<state>Indiana</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>MAC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Butler Bulldogs</name>
+			<school> Butler University</school>
+			<city>Indianapolis</city>
+			<state>Indiana</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big East, Big-East, BE, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Evansville Purple Aces</name>
+			<school> University of Evansville</school>
+			<city>Evansville</city>
+			<state>Indiana</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Missouri Valley</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Indiana Hoosiers">
+			<name>Indiana Hoosiers</name>
+			<school>Indiana University Bloomington</school>
+			<city>Bloomington</city>
+			<state>Indiana</state>
+			<colors>Crimson, Cream</colors>
+			<tagName>Indiana, University, Bloomington, IU, Hoosiers</tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short>Indiana</short>
+			<stadium>Memorial Stadium (Indiana)</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Indiana State Sycamores</name>
+			<school>Indiana State University</school>
+			<city>Terre Haute</city>
+			<state>Indiana</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Missouri Valley</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>IPFW Mastodons</name>
+			<school>Indiana University Purdue University Fort Wayne</school>
+			<city>Fort Wayne</city>
+			<state>Indiana</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Summit</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>IUPUI Jaguars</name>
+			<school> Indiana University Purdue University Indianapolis</school>
+			<city>Indianapolis</city>
+			<state>Indiana</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Summit</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Notre Dame Fighting Irish">
+			<name>Notre Dame Fighting Irish</name>
+			<school>University of Notre Dame</school>
+			<city>Notre Dame</city>
+			<state>Indiana</state>
+			<colors>Gold, Navy Blue</colors>
+			<tagName>Notre Dame, University, of, Fighting Irish, Leprechaun</tagName>
+			<tagConference>Independent</tagConference>
+			<division>Division I</division>
+			<short>Notre Dame</short>
+			<stadium>Notre Dame Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Purdue Boilermakers</name>
+			<school> Purdue University</school>
+			<city>West Lafayette</city>
+			<state>Indiana</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Valparaiso Crusaders</name>
+			<school> Valparaiso University</school>
+			<city>Valparaiso</city>
+			<state>Indiana</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Horizon League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="Iowa">
+		<funfact id="ff1">Eastern Iowa Community College District-Clinton
+			(Volleyball, Men's Basketball only), Muscatine (Baseball, Softball),
+			Scott (Golf, Soccer only).</funfact>
+		<funfact id="ff2">All seven DMACC campusus (Ankeny, Boone, Carroll,
+			Des Moines, Newton, Urban (Des Moines) and West Des Moines campuses)
+			play at Boone.</funfact>
+
+		<team name="">
+			<name>Drake Bulldogs</name>
+			<school>Drake University</school>
+			<city>Des Moines</city>
+			<state>Iowa</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Missouri Valley</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Iowa Hawkeyes</name>
+			<school>University of Iowa</school>
+			<city>Iowa City</city>
+			<state>Iowa</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Iowa State Cyclones">
+			<name>Iowa State Cyclones</name>
+			<school>Iowa State University</school>
+			<city>Ames</city>
+			<state>Iowa</state>
+			<colors>Cardinal and Gold</colors>
+			<tagName>Iowa State, ISU, Cyclones, Iowa State, Cy</tagName>
+			<tagConference>Big 12, Big-12, Big Twelve, Big XII, Conference</tagConference>
+			<division>Division I</division>
+			<short>Iowa State</short>
+			<stadium>Jack Trice Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Northern Iowa Panthers</name>
+			<school>University of Northern Iowa</school>
+			<city>Cedar Falls </city>
+			<state>Iowa</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Missouri Valley</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="Kansas">
+		<team name="Kansas Jayhawks">
+			<name>Kansas Jayhawks</name>
+			<school>University of Kansas</school>
+			<city>Lawrence</city>
+			<state>Kansas</state>
+			<colors>Blue, Crimson</colors>
+			<tagName>Kansas, KU, University, of, Jayhawks, Big Jay, Baby Jay, Centennial Jay</tagName>
+			<tagConference>Big 12, Big-12, Big Twelve, Big XII, Conference</tagConference>
+			<division>Division I</division>
+			<short>Kansas</short>
+			<stadium>Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Kansas State Wildcats">
+			<name>Kansas State Wildcats</name>
+			<school>Kansas State University</school>
+			<city>Manhattan</city>
+			<state>Kansas</state>
+			<colors>Royal Purple</colors>
+			<tagName>Kansas State, University, K-State, Wildcats, Willie the Wildcat</tagName>
+			<tagConference>Big 12, Big-12, Big Twelve, Big XII, Conference</tagConference>
+			<division>Division I</division>
+			<short>Kansas State</short>
+			<stadium>Bill Snyder Family Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Wichita State Shockers shockers">
+			<name>Wichita State Shockers</name>
+			<school>Wichita State University</school>
+			<city>Wichita</city>
+			<state>Kansas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Missouri Valley</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Kentucky">
+		<team name="Eastern Kentucky Colonels">
+			<name>Eastern Kentucky Colonels and Lady Colonels</name>
+			<school>Eastern Kentucky University</school>
+			<city>Richmond</city>
+			<state>Kentucky</state>
+			<colors>Maroon, White</colors>
+			<tagName>Eastern Kentucky, University, EKU, The Colonel, Colonels and Lady Colonels, Colonel, Maroons</tagName>
+			<tagConference>Ohio Valley, OVC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Eastern Kentucky</short>
+			<stadium>Roy Kidd Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Kentucky Wildcats">
+			<name>Kentucky Wildcats</name>
+			<school>University of Kentucky</school>
+			<city>Lexington</city>
+			<state>Kentucky</state>
+			<colors>Blue, White</colors>
+			<tagName>Kentucky, UK, University, of, Wildcats, Scratch</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>Kentucky</short>
+			<stadium>Commonwealth Stadium (Kentucky)</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Louisville Cardinals cardinals">
+			<name>Louisville Cardinals</name>
+			<school>University of Louisville</school>
+			<city>Louisville</city>
+			<state>Kentucky</state>
+			<colors>Red, Black</colors>
+			<tagName>Louisville, UL, U of L, Cardinals, Cardinal Bird, of, University</tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>Louisville</short>
+			<stadium>Papa John's Cardinal Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Morehead State Eagles">
+			<name>Morehead State Eagles</name>
+			<school>Morehead State University</school>
+			<city>Morehead</city>
+			<state>Kentucky</state>
+			<colors>Blue, Gold</colors>
+			<tagName>Morehead State, Eagles, University</tagName>
+			<tagConference>Pioneer Football League, PFL, Pioneer</tagConference>
+			<division>Division I</division>
+			<short>Morehead State</short>
+			<stadium>Jayne Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Murray State Racers">
+			<name>Murray State Racers</name>
+			<school>Murray State University</school>
+			<city>Murray</city>
+			<state>Kentucky</state>
+			<colors>Navy Blue, Gold</colors>
+			<tagName>Murray State, Racers, University</tagName>
+			<tagConference>Ohio Valley, OVC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Murray State</short>
+			<stadium>Roy Stewart Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Northern Kentucky Norse</name>
+			<school>Northern Kentucky University</school>
+			<city>Highland Heights</city>
+			<state>Kentucky</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic Sun, A-Sun, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport> </sport>
+		</team>
+		<team name="WKU Hilltoppers Lady Toppers wku Western Kentucky">
+			<name>WKU Hilltoppers and Lady Toppers</name>
+			<school>Western Kentucky University</school>
+			<city>Bowling Green</city>
+			<state>Kentucky</state>
+			<colors>Red, White</colors>
+			<tagName>Western Kentucky, WKU, University, Hilltoppers</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>WKU</short>
+			<stadium>L. T. Smith Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="Louisiana">
+			
+		<team name="Grambling State Tigers">
+			<name>Grambling State Tigers and Lady Tigers</name>
+			<school>Grambling State University</school>
+			<city>Grambling</city>
+			<state>Louisiana</state>
+			<colors>Gold, Black</colors>
+			<tagName>Grambling State, University, Tigers, Lady Tigers</tagName>
+			<tagConference>SWAC, Southwestern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>Grambling State</short>
+			<stadium>Eddie Robinson Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Louisiana Lafayette Ragin' Cajuns Ragin Cajuns UL-Lafayette UL Lafayette">
+			<name>Louisiana Lafayette Ragin' Cajuns</name>
+			<school>University of Louisiana at Lafayette</school>
+			<city>Lafayette</city>
+			<state>Louisiana</state>
+			<colors>Vermilion, White</colors>
+			<tagName>Louisiana, Lafayette, Ragin', Cajuns, Ragin, UL, Cayenne, University, of</tagName>
+			<tagConference>Sun Belt, SB, SBC, Conference</tagConference>
+			<division>Division I</division>
+			<short>UL-Lafayette</short>
+			<stadium>Cajun Field</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Louisiana Monroe Warhawks ULM UL Monroe UL-Monroe">
+			<name>Louisiana-Monroe Warhawks</name>
+			<school>University of Louisiana at Monroe</school>
+			<city>Monroe</city>
+			<state>Louisiana</state>
+			<colors>Maroon, Gold</colors>
+			<tagName>Louisiana-Monroe, University, of, ULM, Warhawks, Ace the Warhawk</tagName>
+			<tagConference>Sun Belt, SB, SBC, Conference</tagConference>
+			<division>Division I</division>
+			<short>UL-Monroe</short>
+			<stadium>Malone Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Louisiana Tech Bulldogs">
+			<name>Louisiana Tech Bulldogs and Lady Techsters</name>
+			<school>Louisiana Tech University</school>
+			<city>Ruston</city>
+			<state>Louisiana</state>
+			<colors>Red, Blue</colors>
+			<tagName>Louisiana Tech, University, La Tech, Tech, Bulldogs, Champ</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>Louisiana Tech</short>
+			<stadium>Joe Aillet Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="LSU Tigers and Lady Tigers Louisiana State lsu">
+			<name>LSU Tigers and Lady Tigers</name>
+			<school>Louisiana State University</school>
+			<city>Baton Rouge</city>
+			<state>Louisiana</state>
+			<colors>Purple, Gold</colors>
+			<tagName>LSU, Louisiana, State, University, Fighting Tigers, Mike, the, Tiger</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>LSU</short>
+			<stadium>Tiger Stadium (LSU)</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="McNeese State Cowboys mcneese state">
+			<name>McNeese State Cowboys and Cowgirls</name>
+			<school>McNeese State University</school>
+			<city>Lake Charles</city>
+			<state>Louisiana</state>
+			<colors>Blue, Gold</colors>
+			<tagName>McNeese State, University, Cowboys, Rowdy</tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short>McNeese State</short>
+			<stadium>Cowboy Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>New Orleans Privateers and Lady Privateers</name>
+			<school>University of New Orleans</school>
+			<city>New Orleans</city>
+			<state>Louisiana</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Nicholls State Colonels">
+			<name>Nicholls State Colonels</name>
+			<school>Nicholls State University</school>
+			<city>Thibodaux</city>
+			<state>Louisiana</state>
+			<colors>Red, Gray</colors>
+			<tagName>Nicholls State, University, Colonels, Colonel Tillou, Col. Tillou</tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short>Nicholls State</short>
+			<stadium>Manning Field at John L. Guidry Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Northwestern State Demons Lady Demons">
+			<name>Northwestern State Demons and Lady Demons</name>
+			<school>Northwestern State University</school>
+			<city>Natchitoches</city>
+			<state>Louisiana</state>
+			<colors>Purple, White</colors>
+			<tagName>Northwestern State, NW State, University, Demons, Vic the Demon, Demon</tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short>Northwestern State</short>
+			<stadium>Harry Turpin Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Southeastern Louisiana Lions SE Louisiana">
+			<name>Southeastern Louisiana Lions and Lady Lions</name>
+			<school>Southeastern Louisiana University</school>
+			<city>Hammond</city>
+			<state>Louisiana</state>
+			<colors>Green, Gold</colors>
+			<tagName>SE Louisiana, University, Southeastern, Louisiana, Lions, Roomie the Lion</tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short>Southeastern Louisiana</short>
+			<stadium>Strawberry Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Southern Jaguars">
+			<name>Southern Jaguars</name>
+			<school>Southern University</school>
+			<city>Baton Rouge</city>
+			<state>Louisiana</state>
+			<colors>Columbia Blue, Gold</colors>
+			<tagName>Southern, University, Jaguars, Lady, SOU, LaCumba</tagName>
+			<tagConference>SWAC, Western Athletic, Conference, Southwestern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>Southern</short>
+			<stadium>Ace W. Mumford Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Tulane Green Wave">
+			<name>Tulane Green Wave</name>
+			<school>Tulane University</school>
+			<city>New Orleans</city>
+			<state>Louisiana</state>
+			<colors>Olive Green, Sky Blue</colors>
+			<tagName>Tulane, University, Green Wave, Rip Tide</tagName>
+			<tagConference>American Athletic Conference, AAC, The American</tagConference>
+			<division>Division I</division>
+			<short>Tulane</short>
+			<stadium>Yulman Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Maine">
+		<team name="">
+			<name>Maine Black Bears</name>
+			<school>University of Maine</school>
+			<city>Orono</city>
+			<state>Maine</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>America East</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Maryland">
+		<team name="">
+			<name>Coppin State Eagles</name>
+			<school>Coppin State University</school>
+			<city>Baltimore</city>
+			<state>Maryland</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Loyola Greyhounds</name>
+			<school>Loyola University Maryland</school>
+			<city>Baltimore</city>
+			<state>Maryland</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Patriot</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Maryland Terrapins">
+			<name>Maryland Terrapins</name>
+			<school>University of Maryland, College Park</school>
+			<city>College Park</city>
+			<state>Maryland</state>
+			<colors>Red, White, Black, Gold</colors>
+			<tagName>Maryland, University, of, Terrapins, Testudo</tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short>Maryland</short>
+			<stadium>Byrd Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Morgan State Bears and Lady Bears</name>
+			<school>Morgan State University</school>
+			<city>Baltimore</city>
+			<state>Maryland</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Mount Saint Mary's Mountaineers</name>
+			<school>Mount Saint Mary's University</school>
+			<city>Emmitsburg</city>
+			<state>Maryland</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Northeast</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport> </sport>
+		</team>
+		<team name="Navy Midshipmen">
+			<name>Navy Midshipmen</name>
+			<school>United States Naval Academy</school>
+			<city>Annapolis</city>
+			<state>Maryland</state>
+			<colors>Navy Blue, Gold</colors>
+			<tagName>Navy, Midshipmen, Bill the Boat</tagName>
+			<tagConference>Independent</tagConference>
+			<division>Division I</division>
+			<short>Navy</short>
+			<stadium>Navy-Marine Corps Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Towson Tigers">
+			<name>Towson Tigers</name>
+			<school>Towson University </school>
+			<city>Towson </city>
+			<state>Maryland</state>
+			<colors>Gold, Black</colors>
+			<tagName>Towson, University, TU, Tigers, Doc</tagName>
+			<tagConference>Colonial, Athletic, Association, CAA, Conference</tagConference>
+			<division>Division I</division>
+			<short>Towson</short>
+			<stadium>Johnny Unitas Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>UMBC Retrievers</name>
+			<school>University of Maryland, Baltimore County</school>
+			<city>Catonsville</city>
+			<state>Maryland</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>America East</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport> </sport>
+		</team>
+		<team name="">
+			<name>UMES Hawks and Lady Hawks</name>
+			<school>University of Maryland Eastern Shore</school>
+			<city>Princess Anne</city>
+			<state>Maryland</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport> </sport>
+		</team>
+	</state>
+
+	<state id="Massachusetts">
+		<team name="">
+			<name>Boston College Eagles</name>
+			<school>Boston College</school>
+			<city>Chestnut Hill</city>
+			<state>Massachusetts</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Boston University Terriers</name>
+			<school>Boston University</school>
+			<city>Boston</city>
+			<state>Massachusetts</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Patriot</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Harvard Crimson</name>
+			<school>Harvard University</school>
+			<city>Cambridge	</city>
+			<state>Massachusetts</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ivy League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Holy Cross Crusaders</name>
+			<school>College of the Holy Cross</school>
+			<city>Worcester </city>
+			<state>Massachusetts</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Patriot</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Massachusetts Minutemen and Minutewomen</name>
+			<school>University of Massachusetts Amherst</school>
+			<city>Amherst</city>
+			<state>Massachusetts</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic 10</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Northeastern Huskies</name>
+			<school>Northeastern University</school>
+			<city>Boston</city>
+			<state>Massachusetts</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>CAA</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>UMass Lowell River Hawks</name>
+			<school>University of Massachusetts Lowell</school>
+			<city>Lowell</city>
+			<state>Massachusetts</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>America East</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Michigan">
+		<team name="Central Michigan Chippewas">
+			<name>Central Michigan Chippewas</name>
+			<school>Central Michigan University</school>
+			<city>Mount Pleasant</city>
+			<state>Michigan</state>
+			<colors>Maroon, Gold</colors>
+			<tagName>Central Michigan, CMU, University, Chippewas, Flying C</tagName>
+			<tagConference>MAC, Mid-American, Conference, Mid American</tagConference>
+			<division>Division I</division>
+			<short>Central Michigan</short>
+			<stadium>Kelly/Shorts Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Detroit Titans</name>
+			<school>University of Detroit Mercy</school>
+			<city>Detroit</city>
+			<state>Michigan</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Horizon League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Eastern Michigan Eagles">
+			<name>Eastern Michigan Eagles</name>
+			<school>Eastern Michigan University</school>
+			<city>Ypsilanti</city>
+			<state>Michigan</state>
+			<colors>Green, White</colors>
+			<tagName>Eastern Michigan, EMU, University, Eagles, Swoop</tagName>
+			<tagConference>MAC, Mid-American, Conference, Mid American</tagConference>
+			<division>Division I</division>
+			<short>Eastern Michigan</short>
+			<stadium>Rynearson Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Michigan Wolverines</name>
+			<school>University of Michigan</school>
+			<city>Ann Arbor</city>
+			<state>Michigan</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Michigan State Spartans</name>
+			<school>Michigan State University</school>
+			<city>East Lansing</city>
+			<state>Michigan</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Oakland Golden Grizzlies</name>
+			<school>Oakland University</school>
+			<city>Rochester</city>
+			<state>Michigan</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Horizon League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Western Michigan Broncos">
+			<name>Western Michigan Broncos</name>
+			<school>Western Michigan University</school>
+			<city>Kalamazoo</city>
+			<state>Michigan</state>
+			<colors>Brown, Gold</colors>
+			<tagName>Western Michigan, WMU, University, Broncos, Buster</tagName>
+			<tagConference>MAC, Mid-American, Conference, Mid American</tagConference>
+			<division>Division I</division>
+			<short>Western Michigan</short>
+			<stadium>Waldo Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="Minnesota">
+		<team name="">
+			<name>Minnesota Golden Gophers</name>
+			<school>University of Minnesota Twin Cities</school>
+			<city>Minneapolis and St. Paul</city>
+			<state>Minnesota</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Mississippi">
+
+		<funfact id="ff1">Alcorn State uses no nickname for its women's
+			teams at all, referring to them solely as "Alcorn".</funfact>
+		<funfact id="ff2">National media generally use "Mississippi" in
+			score listings and on first reference, but will frequently use "Ole
+			Miss" on later reference.
+		</funfact>
+		<funfact id="ff3">The school athletic department prefers "Ole Miss".
+		</funfact>
+
+		<team name="Alcorn State Braves">
+			<name>Alcorn State Braves</name>
+			<school>Alcorn State University</school>
+			<city>Lorman</city>
+			<state>Mississippi</state>
+			<colors>Purple, Gold</colors>
+			<tagName>Alcorn State, University, ALCN, Braves, Lady</tagName>
+			<tagConference>SWAC, Western Athletic, Conference, Southwestern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>Alcorn State</short>
+			<stadium>Jack Spinks Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Jackson State Tigers">
+			<name>Jackson State Tigers and Lady Tigers</name>
+			<school>Jackson State University</school>
+			<city>Jackson</city>
+			<state>Mississippi</state>
+			<colors>Royal Blue, White</colors>
+			<tagName>Jackson State, University, JSU, Tigers, Blue Bengal</tagName>
+			<tagConference>SWAC, Western Athletic, Conference, Southwestern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>Jackson State</short>
+			<stadium>Mississippi Veterans Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Mississippi State Bulldogs">
+			<name>Mississippi State Bulldogs and Lady Bulldogs</name>
+			<school>Mississippi State University</school>
+			<city>Starkville</city>
+			<state>Mississippi</state>
+			<colors>Maroon, White, Gray, Gold</colors>
+			<tagName>Mississippi State, University, MSU, Bulldogs, Bully</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>Mississippi State</short>
+			<stadium>Davis Wade Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Mississippi Valley State Delta Devils">
+			<name>Mississippi Valley State Delta Devils and Devilettes</name>
+			<school>Mississippi Valley State University</school>
+			<city>Itta Bena</city>
+			<state>Mississippi</state>
+			<colors>Forest Green, White</colors>
+			<tagName>Mississippi Valley State, University, Delta Devils</tagName>
+			<tagConference>SWAC, Western Athletic, Conference, Southwestern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>Mississippi Valley State</short>
+			<stadium>Rice–Totten Field</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Ole Miss Rebels ole miss Mississippi">
+			<name>Ole Miss Rebels</name>
+			<school>University of Mississippi</school>
+			<city>Oxford</city>
+			<state>Mississippi</state>
+			<colors>Yale Blue, Harvard Crimson</colors>
+			<tagName>Mississippi, Ole Miss, Rebels, University, of, Rebel Black Bear</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>Ole Miss</short>
+			<stadium>Vaught-Hemingway Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Southern Miss Golden Eagles Lady Eagles">
+			<name>Southern Miss Golden Eagles and Lady Eagles</name>
+			<school>The University of Southern Mississippi</school>
+			<city>Hattiesburg</city>
+			<state>Mississippi</state>
+			<colors>Black, Gold</colors>
+			<tagName>Southern Miss, University, of, Southern Mississippi, Golden Eagles, Seymour d'Campus</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>Southern Miss</short>
+			<stadium>M. M. Roberts Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Missouri">
+		<team name="Missouri Tigers Mizzou">
+			<name>Missouri Tigers</name>
+			<school>University of Missouri</school>
+			<city>Columbia</city>
+			<state>Missouri</state>
+			<colors>Black, MU Gold</colors>
+			<tagName>Missouri, University, of, Mizzou, MU, Missouri-Columbia, Tigers, Truman the Tiger</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>Missouri</short>
+			<stadium>Faurot Field</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Missouri State Bears Lady Bears">
+			<name>Missouri State Bears and Lady Bears</name>
+			<school>Missouri State University</school>
+			<city>Springfield</city>
+			<state>Missouri</state>
+			<colors>Maroon, White</colors>
+			<tagName>Missouri State, University, MSU, Mo State, Bears, Boomer the Bear</tagName>
+			<tagConference>Missouri Valley Football, Conference, MVFC</tagConference>
+			<division>Division I</division>
+			<short>Missouri State</short>
+			<stadium>Plaster Sports Complex</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Saint Louis Billikens</name>
+			<school>Saint Louis University</school>
+			<city>St. Louis</city>
+			<state>Missouri</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>A-10</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Southeast Missouri State Redhawks SE Missouri State">
+			<name>Southeast Missouri State Redhawks</name>
+			<school>Southeast Missouri State University</school>
+			<city>Cape Girardeau</city>
+			<state>Missouri</state>
+			<colors>Red, Black</colors>
+			<tagName>Southeast Missouri State, University, SEMO, Redhawks</tagName>
+			<tagConference>Ohio Valley, OVC, Conference</tagConference>
+			<division>Division I</division>
+			<short>SE Missouri State</short>
+			<stadium>Houck Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>UMKC Kangaroos</name>
+			<school>University of Missouri</school>
+			<city>Kansas City</city>
+			<state>Missouri</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>WAC, Western Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Montana">
+
+		<funfact id="ff1">The women's basketball team is known as the "Lady
+			Griz", but all other women's teams use the "Grizzlies" nickname.
+		</funfact>
+
+		<team name="">
+			<name>Montana Grizzlies</name>
+			<school>The University of Montana</school>
+			<city>Missoula</city>
+			<state>Montana</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big Sky, BSC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Montana State Bobcats">
+			<name>Montana State Bobcats</name>
+			<school>Montana State University - Bozeman</school>
+			<city>Bozeman</city>
+			<state>Montana</state>
+			<colors>Blue, Gold</colors>
+			<tagName>Montana State, University, MTST, Bobcats</tagName>
+			<tagConference>Big Sky, BSC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Montana State</short>
+			<stadium>Bobcat Stadium (Bozeman, Montana)</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Nebraska">
+		<team name="">
+			<name>Creighton Bluejays</name>
+			<school>Creighton University</school>
+			<city>Omaha</city>
+			<state>Nebraska</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big East, Big-East, BE, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Nebraska Cornhuskers</name>
+			<school>University of Nebraska Lincoln</school>
+			<city>Lincoln</city>
+			<state>Nebraska</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Omaha Mavericks</name>
+			<school>University of Nebraska at Omaha</school>
+			<city>Omaha</city>
+			<state>Nebraska</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>The Summit</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Nevada">
+		<funfact id="ff1">The men's basketball team is nicknamed "Runnin'
+			Rebels".</funfact>
+		<team name="">
+			<name>Nevada Wolf Pack</name>
+			<school>University of Nevada, Reno</school>
+			<city>Reno</city>
+			<state>Nevada</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Mountain West, MWC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="UNLV Rebels and Lady Rebels">
+			<name>UNLV Rebels and Lady Rebels</name>
+			<school>University of Nevada, Las Vegas</school>
+			<city>Las Vegas</city>
+			<state>Nevada</state>
+			<colors>Scarlet, Grey</colors>
+			<tagName>UNLV, University, of, Nevada, Las Vegas, Rebels, Hey Reb!</tagName>
+			<tagConference>Mountain West, MWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>UNLV</short>
+			<stadium>Sam Boyd Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="New Hampshire">
+		<team name="">
+			<name>Dartmouth Big Green</name>
+			<school>Dartmouth College</school>
+			<city>Hanover</city>
+			<state>New Hampshire</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ivy</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>New Hampshire Wildcats</name>
+			<school>University of New Hampshire</school>
+			<city>Durham</city>
+			<state>New Hampshire</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>America East</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="New Jersey">
+		<team name="">
+			<name>Fairleigh Dickinson Knights</name>
+			<school>Fairleigh Dickinson University</school>
+			<city>Teaneck and Hackensack</city>
+			<state>New Jersey</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Northeast</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Monmouth Hawks</name>
+			<school>Monmouth University</school>
+			<city>West Long Branch</city>
+			<state>New Jersey</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Northeast</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>NJIT Highlanders</name>
+			<school>New Jersey Institute of Technology</school>
+			<city>Newark</city>
+			<state>New Jersey</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Great West</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Princeton Tigers</name>
+			<school>Princeton University</school>
+			<city>Princeton</city>
+			<state>New Jersey</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ivy League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Rider Broncs</name>
+			<school>Rider University</school>
+			<city>Lawrenceville</city>
+			<state>New Jersey</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>MAAC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Rutgers Scarlet Knights">
+			<name>Rutgers Scarlet Knights</name>
+			<school>Rutgers University</school>
+			<city>New Brunswick</city>
+			<state>New Jersey</state>
+			<colors>Scarlet</colors>
+			<tagName>Rutgers, The, State, University, of, New Jersey, Old Queen's, Scarlet Knights, RU</tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short>Rutgers</short>
+			<stadium>High Point Solutions Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Saint Peter's Peacocks and Peahens</name>
+			<school>Saint Peter's University</school>
+			<city>Jersey City</city>
+			<state>New Jersey</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>MAAC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Seton Hall Pirates</name>
+			<school>Seton Hall University</school>
+			<city>South Orange</city>
+			<state>New Jersey</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big East, Big-East, BE, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="New Mexico">
+	
+		<team name="New Mexico Lobos">
+			<name>New Mexico Lobos</name>
+			<school>University of New Mexico</school>
+			<city>Albuquerque</city>
+			<state>New Mexico</state>
+			<colors>Cherry, Silver</colors>
+			<tagName>New Mexico, UNM, University, of, Lobos</tagName>
+			<tagConference>Mountain West, MWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>New Mexico</short>
+			<stadium>University Stadium (Albuquerque)</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="New Mexico State Aggies">
+			<name>New Mexico State Aggies</name>
+			<school>New Mexico State University</school>
+			<city>Las Cruces</city>
+			<state>New Mexico</state>
+			<colors>Crimson, White</colors>
+			<tagName>New Mexico State, NMSU, University, Aggies, NM State</tagName>
+			<tagConference>Sun Belt, SB, SBC, Conference</tagConference>
+			<division>Division I</division>
+			<short>New Mexico State</short>
+			<stadium>Aggie Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="New York">
+		<team name="">
+			<name>Albany Great Danes</name>
+			<school>University at Albany, State University of New York</school>
+			<city>Albany</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>America East</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Army Black Knights">
+			<name>Army Black Knights</name>
+			<school>United States Military Academy</school>
+			<city>West Point</city>
+			<state>New York</state>
+			<colors>Black, Gold</colors>
+			<tagName>Army, United States Military Academy, West Point, USMA, Black Knights, Army Mule</tagName>
+			<tagConference>Independent</tagConference>
+			<division>Division I</division>
+			<short>Army</short>
+			<stadium>Michie Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Binghamton Bearcats</name>
+			<school>State University of New York at Binghamton</school>
+			<city>Vestal</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>America East</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Buffalo Bulls">
+			<name>Buffalo Bulls</name>
+			<school>University at Buffalo, The State University of New York</school>
+			<city>Buffalo</city>
+			<state>New York</state>
+			<colors>Blue, White</colors>
+			<tagName>Buffalo, University, of, State, New York, at, UB, Bulls, Victor E. Bull</tagName>
+			<tagConference>MAC, Mid-American, Conference, Mid American</tagConference>
+			<division>Division I</division>
+			<short>Buffalo</short>
+			<stadium>UB Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Canisius Golden Griffins</name>
+			<school>Canisius College</school>
+			<city>Buffalo</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>MAAC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Colgate Raiders</name>
+			<school>Colgate University</school>
+			<city>Hamilton</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Patriot</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Columbia Lions</name>
+			<school>Columbia University</school>
+			<city>New York City (Manhattan)</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ivy</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Cornell Big Red</name>
+			<school>Cornell University</school>
+			<city>Ithaca</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ivy</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Fordham Rams</name>
+			<school>Fordham University</school>
+			<city>New York City (The Bronx)</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic 10</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Hofstra Pride</name>
+			<school>Hofstra University</school>
+			<city>Hempstead</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>CAA</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Iona Gaels</name>
+			<school>Iona College</school>
+			<city>New Rochelle</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>MAAC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>LIU Blackbirds</name>
+			<school>Long Island University-Brooklyn</school>
+			<city>New York City (Brooklyn)</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Northeast</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Manhattan Jaspers and Lady Jaspers</name>
+			<school>Manhattan College</school>
+			<city>New York City (The Bronx)</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>MAAC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Marist Red Foxes</name>
+			<school>Marist College</school>
+			<city>Poughkeepsie</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>MAAC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Niagara Purple Eagles</name>
+			<school>Niagara University</school>
+			<city>Lewiston</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>MAAC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>St. Bonaventure Bonnies</name>
+			<school>St. Bonaventure University</school>
+			<city>Olean</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic 10</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>St. Francis Terriers</name>
+			<school>St. Francis College</school>
+			<city>New York City (Brooklyn)</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Northeast</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>St. John's Red Storm</name>
+			<school>St. John's University</school>
+			<city>New York City (Queens)</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big East, Big-East, BE, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Siena Saints</name>
+			<school>Siena College</school>
+			<city>Loudonville</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>MAAC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Stony Brook Seawolves">
+			<name>Stony Brook Seawolves</name>
+			<school>State University of New York at Stony Brook</school>
+			<city>Stony Brook</city>
+			<state>New York</state>
+			<colors>Red, Grey</colors>
+			<tagName>Stony Brook, Seawolves, State University, of, New York, at, Stony Brook</tagName>
+			<tagConference>Colonial, Athletic, Association, CAA, Conference</tagConference>
+			<division>Division I</division>
+			<short>Stony Brook</short>
+			<stadium>Kenneth P. LaValle Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Syracuse Orange</name>
+			<school>Syracuse University</school>
+			<city>Syracuse</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Wagner Seahawks</name>
+			<school>Wagner College</school>
+			<city>New York City (Staten Island)</city>
+			<state>New York</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Northeast</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="North Carolina">
+	
+		<team name="Appalachian State Mountaineers">
+			<name>Appalachian State Mountaineers</name>
+			<school>Appalachian State University</school>
+			<city>Boone</city>
+			<state>North Carolina</state>
+			<colors>Gold, Black</colors>
+			<tagName>Appalachian State, Mountaineers, University</tagName>
+			<tagConference>Sun Belt, SB, SBC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Appalachian State</short>
+			<stadium>Kidd Brewer Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Campbell Fighting Camels">
+			<name>Campbell Fighting Camels and Lady Camels</name>
+			<school>Campbell University</school>
+			<city>Buies Creek</city>
+			<state>North Carolina</state>
+			<colors>Orange, Black</colors>
+			<tagName>Campbell, Fighting Camels, University</tagName>
+			<tagConference>Pioneer Football League, PFL, Pioneer</tagConference>
+			<division>Division I</division>
+			<short>Campbell</short>
+			<stadium>Barker–Lane Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Charlotte 49ers">
+			<name>Charlotte 49ers</name>
+			<school>University of North Carolina at Charlotte</school>
+			<city>Charlotte</city>
+			<state>North Carolina</state>
+			<colors>Green, White, Gold, Black</colors>
+			<tagName>Charlotte, University, of, North Carolina, UNC, 49ers, Norm the Niner</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>Charlotte</short>
+			<stadium>Jerry Richardson Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Davidson Wildcats</name>
+			<school>Davidson College</school>
+			<city>Davidson</city>
+			<state>North Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern / Pioneer</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Duke Blue Devils">
+			<name>Duke Blue Devils</name>
+			<school>Duke University</school>
+			<city>Durham</city>
+			<state>North Carolina</state>
+			<colors>Duke Blue, White</colors>
+			<tagName>Duke, University, Blue Devils, Blue Devil</tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>Duke</short>
+			<stadium>Wallace Wade Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="East Carolina Pirates east carolina pirates">
+			<name>East Carolina Pirates and Lady Pirates</name>
+			<school>East Carolina University</school>
+			<city>Greenville</city>
+			<state>North Carolina</state>
+			<colors>Purple, Gold, Black</colors>
+			<tagName>East Carolina, ECU, University, Pirates, Pee Dee the Pirate</tagName>
+			<tagConference>American Athletic Conference, AAC, The American</tagConference>
+			<division>Division I</division>
+			<short>East Carolina</short>
+			<stadium>Dowdy-Ficklen Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Elon Phoenix</name>
+			<school>Elon University</school>
+			<city>Elon</city>
+			<state>North Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Gardner Webb Runnin' Bulldogs</name>
+			<school>Gardner Webb University</school>
+			<city>Boiling Springs</city>
+			<state>North Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big South</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>High Point Panthers</name>
+			<school>High Point University</school>
+			<city>High Point</city>
+			<state>North Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big South</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="NC State Wolfpack North Carolina State">
+			<name>NC State Wolfpack</name>
+			<school>North Carolina State University</school>
+			<city>Raleigh</city>
+			<state>North Carolina</state>
+			<colors>Red, White</colors>
+			<tagName>North Carolina State, NC State, University, Wolfpack, Tuffy, Mr. Wuf, Ms Wuf</tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>North Carolina State</short>
+			<stadium>Carter–Finley Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="North Carolina Tar Heels">
+			<name>North Carolina Tar Heels</name>
+			<school>University of North Carolina at Chapel Hill</school>
+			<city>Chapel Hill</city>
+			<state>North Carolina</state>
+			<colors>Carolina Blue, White</colors>
+			<tagName>North Carolina, University, of, North Carolina, UNC, Tar Heels, Rameses</tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>North Carolina</short>
+			<stadium>Kenan Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="North Carolina A_T Aggies North Carolina Aggies">
+			<name>North Carolina A and T Aggies</name>
+			<school>North Carolina Agricultural and Technical State University</school>
+			<city>Greensboro</city>
+			<state>North Carolina</state>
+			<colors>Navy Blue, Gold</colors>
+			<tagName>North Carolina, A_T, Aggies, North Carolina Aggies</tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>North Carolina A_T</short>
+			<stadium>Aggie Stadium (North Carolina A_T)</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="North Carolina Central Eagles north carolina central eagles">
+			<name>North Carolina Central Eagles</name>
+			<school>North Carolina Central University</school>
+			<city>Durham</city>
+			<state>North Carolina</state>
+			<colors>Maroon, Gray</colors>
+			<tagName>North Carolina Central, NC Central, Eagles, NCCU</tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>N Carolina Cent</short>
+			<stadium>O'Kelly–Riddick Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>UNC Asheville Bulldogs</name>
+			<school>University of North Carolina at Asheville</school>
+			<city>Asheville</city>
+			<state>North Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big South</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>UNC Greensboro Spartans</name>
+			<school>University of North Carolina at Greensboro</school>
+			<city>Greensboro</city>
+			<state>North Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>UNC Wilmington Seahawks</name>
+			<school>University of North Carolina at Wilmington</school>
+			<city>Wilmington</city>
+			<state>North Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Colonial</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Wake Forest Demon Deacons</name>
+			<school>Wake Forest University</school>
+			<city>Winston-Salem</city>
+			<state>North Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Western Carolina Catamounts">
+			<name>Western Carolina Catamounts</name>
+			<school>Western Carolina University</school>
+			<city>Cullowhee</city>
+			<state>North Carolina</state>
+			<colors>Purple, Gold</colors>
+			<tagName>Western Carolina, University, WCU, Catamounts, Paws</tagName>
+			<tagConference>Southern, Conference, SoCon</tagConference>
+			<division>Division I</division>
+			<short>Western Carolina</short>
+			<stadium>E. J. Whitmire Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="North Dakota">
+		<team name="">
+			<name>North Dakota</name>
+			<school>University of North Dakota</school>
+			<city>Grand Forks</city>
+			<state>North Dakota</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big Sky, BSC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>North Dakota State Bison</name>
+			<school>North Dakota State University</school>
+			<city>Fargo</city>
+			<state>North Dakota</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Summit / Missouri Valley Football tagConference
+			</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Ohio">
+		<team name="Akron Zips">
+			<name>Akron Zips</name>
+			<school>University of Akron</school>
+			<city>Akron</city>
+			<state>Ohio</state>
+			<colors>Blue, Gold</colors>
+			<tagName>Akron, University, of, Zips, Zippy</tagName>
+			<tagConference>MAC, Mid-American, Conference, Mid American</tagConference>
+			<division>Division I</division>
+			<short>Akron</short>
+			<stadium>InfoCision Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Bowling Green Falcons bowling green falcons">
+			<name>Bowling Green Falcons</name>
+			<school>Bowling Green State University</school>
+			<city>Bowling Green</city>
+			<state>Ohio</state>
+			<colors>Orange, Brown</colors>
+			<tagName>Bowling Green, State, University, BG, BGS, BGSU, Falcons, Freddie and Frieda Falcon</tagName>
+			<tagConference>MAC, Mid-American, Conference, Mid American</tagConference>
+			<division>Division I</division>
+			<short>Bowling Green</short>
+			<stadium>Doyt Perry Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Cincinnati Bearcats">
+			<name>Cincinnati Bearcats</name>
+			<school>University of Cincinnati</school>
+			<city>Cincinnati</city>
+			<state>Ohio</state>
+			<colors>Black, Red</colors>
+			<tagName>Cincinnati, Bearcats, UC, University, of, Cincy</tagName>
+			<tagConference>American Athletic Conference, AAC, The American</tagConference>
+			<division>Division I</division>
+			<short>Cincinnati</short>
+			<stadium>Nippert Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Cleveland State Vikings</name>
+			<school>Cleveland State University</school>
+			<city>Cleveland</city>
+			<state>Ohio</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Horizon League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Dayton Flyers</name>
+			<school>University of Dayton</school>
+			<city>Dayton</city>
+			<state>Ohio</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic 10</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Kent State Golden Flashes</name>
+			<school>Kent State University</school>
+			<city>Kent</city>
+			<state>Ohio</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>MAC, Mid-American, Conference, Mid American</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Miami RedHawks Miami(OH) miami (OH) Miami (OH) miami redhawks miami redhawks">
+			<name>Miami RedHawks</name>
+			<school>Miami University</school>
+			<city>Oxford</city>
+			<state>Ohio</state>
+			<colors>Red, White</colors>
+			<tagName>Miami, OH, University, Miami (OH), RedHawks, Swoop</tagName>
+			<tagConference>MAC, Mid-American, Conference, Mid American</tagConference>
+			<division>Division I</division>
+			<short>Miami (OH)</short>
+			<stadium>Yager Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Ohio Bobcats">
+			<name>Ohio Bobcats</name>
+			<school>Ohio University</school>
+			<city>Athens</city>
+			<state>Ohio</state>
+			<colors>Ohio Green, White</colors>
+			<tagName>Ohio, University, OU, Bobcats, Rufus, bobcat</tagName>
+			<tagConference>MAC, Mid-American, Conference, Mid American</tagConference>
+			<division>Division I</division>
+			<short>Ohio</short>
+			<stadium>Peden Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Ohio State Buckeyes">
+			<name>Ohio State Buckeyes</name>
+			<school>The Ohio State University</school>
+			<city>Columbus</city>
+			<state>Ohio</state>
+			<colors>Scarlet and Gray</colors>
+			<tagName>Ohio State, University, OSU, Buckeyes, Brutus the Buckeye</tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short>Ohio State</short>
+			<stadium>Ohio Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Toledo Rockets">
+			<name>Toledo Rockets</name>
+			<school>University of Toledo</school>
+			<city>Toledo</city>
+			<state>Ohio</state>
+			<colors>Midnight Blue, Gold</colors>
+			<tagName>Toledo, University, of, UT, Rockets, Rocky the Rocket, Rocksy the Rocket</tagName>
+			<tagConference>MAC, Mid-American, Conference, Mid American</tagConference>
+			<division>Division I</division>
+			<short>Toledo</short>
+			<stadium>Glass Bowl</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Wright State Raiders</name>
+			<school>Wright State University</school>
+			<city>Fairborn</city>
+			<state>Ohio</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Horizon League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Xavier Musketeers</name>
+			<school>Xavier University</school>
+			<city>Cincinnati</city>
+			<state>Ohio</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big East, Big-East, BE, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Youngstown State Penguins</name>
+			<school>Youngstown State University</school>
+			<city>Youngstown</city>
+			<state>Ohio</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Horizon League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Oklahoma">
+
+		<funfact id="ff1">Tulsa will join the American Athletic
+			tagConference in July 2014.</funfact>
+			
+		<team name="Oklahoma Sooners OU Sooners ou sooners">
+			<name>Oklahoma Sooners</name>
+			<school>University of Oklahoma</school>
+			<city>Norman</city>
+			<state>Oklahoma</state>
+			<colors>Crimson, Cream</colors>
+			<tagName>Oklahoma, University, of, OU, Sooners, Boomer, Sooner</tagName>
+			<tagConference>Big 12, Big-12, Big Twelve, Big XII, Conference</tagConference>
+			<division>Division I</division>
+			<short>Oklahoma</short>
+			<stadium>Gaylord Family Oklahoma Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Oklahoma State Cowboys and Cowgirls osu OSU">
+			<name>Oklahoma State Cowboys and Cowgirls</name>
+			<school>Oklahoma State University Stillwater</school>
+			<city>Stillwater</city>
+			<state>Oklahoma</state>
+			<colors>Orange</colors>
+			<tagName>Oklahoma State, University, Stillwater, O-K-State, O-State, OSU, Cowboys, Cowgirls, Pistol Pete</tagName>
+			<tagConference>Big 12, Big-12, Big Twelve, Big XII, Conference</tagConference>
+			<division>Division I</division>
+			<short>Oklahoma State</short>
+			<stadium>Boone Pickens Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Oral Roberts Golden Eagles">
+			<name>Oral Roberts Golden Eagles</name>
+			<school>Oral Roberts University</school>
+			<city>Tulsa</city>
+			<state>Oklahoma</state>
+			<colors> </colors>
+			<tagName>Oral Roberts, University, ORU, Golden Eagles, Eli</tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport> </sport>
+		</team>
+		<team name="Tulsa Golden Hurricane">
+			<name>Tulsa Golden Hurricane</name>
+			<school>University of Tulsa</school>
+			<city>Tulsa</city>
+			<state>Oklahoma</state>
+			<colors>Royal blue, Old gold, Crimson</colors>
+			<tagName>Tulsa, University, of, TU, Golden, Hurricane, Hurricanes, Captain Cane</tagName>
+			<tagConference>American Athletic Conference, AAC, The American</tagConference>
+			<division>Division I</division>
+			<short>Tulsa</short>
+			<stadium>Skelly Field at H.A. Chapman Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Oregon">
+		<team name="Oregon Ducks">
+			<name>Oregon Ducks</name>
+			<school>University of Oregon</school>
+			<city>Eugene</city>
+			<state>Oregon</state>
+			<colors>Thunder Green, Lightning Yellow</colors>
+			<tagName>Oregon, University, of, Ducks, The Oregon Duck</tagName>
+			<tagConference>Pac-12, Pacific-12, Conference</tagConference>
+			<division>Division I</division>
+			<short>Oregon</short>
+			<stadium>Autzen Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Oregon State Beavers OSU osu beavers">
+			<name>Oregon State Beavers</name>
+			<school>Oregon State University</school>
+			<city>Corvallis</city>
+			<state>Oregon</state>
+			<colors>Orange, Black</colors>
+			<tagName>Oregon State, University, OSU, Beavers, Benny Beaver</tagName>
+			<tagConference>Pac-12, Pacific-12, Conference</tagConference>
+			<division>Division I</division>
+			<short>Oregon State</short>
+			<stadium>Reser Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Portland Pilots</name>
+			<school>University of Portland</school>
+			<city>Portland</city>
+			<state>Oregon</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>WCC, West Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport> </sport>
+		</team>
+		<team name="">
+			<name>Portland State Vikings</name>
+			<school>Portland State University</school>
+			<city>Portland</city>
+			<state>Oregon</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big Sky, BSC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Pennsylvania">
+		<team name="">
+			<name>Bucknell Bison</name>
+			<school>Bucknell University</school>
+			<city>Lewisburg</city>
+			<state>Pennsylvania</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Patriot</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Drexel Dragons</name>
+			<school>Drexel University</school>
+			<city>Philadelphia</city>
+			<state>Pennsylvania</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Colonial</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Duquesne Dukes</name>
+			<school>Duquesne University</school>
+			<city>Pittsburgh</city>
+			<state>Pennsylvania</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic 10</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>La Salle Explorers</name>
+			<school>La Salle University</school>
+			<city>Philadelphia</city>
+			<state>Pennsylvania</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic 10</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Lafayette Leopards</name>
+			<school>Lafayette College</school>
+			<city>Easton</city>
+			<state>Pennsylvania</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Patriot</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Lehigh Mountain Hawks</name>
+			<school>Lehigh University</school>
+			<city>Bethlehem</city>
+			<state>Pennsylvania</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Patriot</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Penn Quakers</name>
+			<school>University of Pennsylvania</school>
+			<city>Philadelphia</city>
+			<state>Pennsylvania</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ivy</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Penn State Nittany Lions and Lady Lions penn state">
+			<name>Penn State Nittany Lions and Lady Lions</name>
+			<school>Pennsylvania State University</school>
+			<city>State College</city>
+			<state>Pennsylvania</state>
+			<colors>Blue, White</colors>
+			<tagName>Penn State, Pennsylvania, State, University, Nittany Lions</tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short>Penn State</short>
+			<stadium>Beaver Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Pittsburgh Panthers pitt pan">
+			<name>Pittsburgh Panthers</name>
+			<school>University of Pittsburgh</school>
+			<city>Pittsburgh</city>
+			<state>Pennsylvania</state>
+			<colors>Blue, Gold</colors>
+			<tagName>Pittsburgh, University, of, Pitt, Panthers, Roc the Panther</tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>Pittsburgh</short>
+			<stadium>Heinz Field</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Robert Morris Colonials</name>
+			<school>Robert Morris University</school>
+			<city>Moon Township</city>
+			<state>Pennsylvania</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Northeast</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Saint Francis Red Flash</name>
+			<school>Saint Francis University</school>
+			<city>Loretto</city>
+			<state>Pennsylvania</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Northeast</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Saint Joseph's Hawks</name>
+			<school>Saint Joseph's University</school>
+			<city>Philadelphia</city>
+			<state>Pennsylvania</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic 10</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Temple Owls">
+			<name>Temple Owls</name>
+			<school>Temple University</school>
+			<city>Philadelphia</city>
+			<state>Pennsylvania</state>
+			<colors>Cherry, White</colors>
+			<tagName>Temple, University, Owls, Hooter the Owl</tagName>
+			<tagConference>American Athletic Conference, AAC, The American</tagConference>
+			<division>Division I</division>
+			<short>Temple</short>
+			<stadium>Lincoln Financial Field</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Villanova Wildcats">
+			<name>Villanova Wildcats</name>
+			<school>Villanova University</school>
+			<city>Radnor Township</city>
+			<state>Pennsylvania</state>
+			<colors>Blue, White</colors>
+			<tagName>Villanova, VU, Wildcats, Will D. Cat</tagName>
+			<tagConference>Colonial, Athletic, Association, CAA, Conference</tagConference>
+			<division>Division I</division>
+			<short>Villanova</short>
+			<stadium>Villanova Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Rhode Island">
+		<team name="">
+			<name>Brown Bears</name>
+			<school>Brown University</school>
+			<city>Providence</city>
+			<state>Rhode Island</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ivy League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Bryant Bulldogs</name>
+			<school>Bryant University</school>
+			<city>Smithfield</city>
+			<state>Rhode Island</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Northeast</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name> Providence Friars</name>
+			<school>Providence College</school>
+			<city>Providence</city>
+			<state>Rhode Island</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big East, Big-East, BE, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Rhode Island Rams">
+			<name>Rhode Island Rams</name>
+			<school>University of Rhode Island</school>
+			<city>Kingston</city>
+			<state>Rhode Island</state>
+			<colors>Keaney blue, White, Navy blue</colors>
+			<tagName>Rhode Island, University, of, Rams, Rhody the Ram</tagName>
+			<tagConference>Colonial, Athletic, Association, CAA, Conference</tagConference>
+			<division>Division I</division>
+			<short>Rhode Island</short>
+			<stadium>Meade Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="South Carolina">
+
+		<funfact id="ff1">Although the school prefers to use "USC Upstate,"
+			national media use "South Carolina Upstate," in order to
+			differentiate it from the University of Southern California.
+		</funfact>
+
+		<team name="">
+			<name>Charleston Cougars</name>
+			<school>College of Charleston</school>
+			<city>Charleston</city>
+			<state>South Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>CAA</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Charleston Southern Buccaneers">
+			<name>Charleston Southern Buccaneers and Lady Bucs</name>
+			<school>Charleston Southern University</school>
+			<city>Charleston</city>
+			<state>South Carolina</state>
+			<colors>Navy, Vegas Gold</colors>
+			<tagName>Charleston Southern, University, Buccaneers, Lady Bucs</tagName>
+			<tagConference>Big South, Conference</tagConference>
+			<division>Division I</division>
+			<short>Charleston Southern</short>
+			<stadium>Buccaneer Field</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>The Citadel Bulldogs</name>
+			<school>The Citadel, The Military College of South Carolina</school>
+			<city>Charleston</city>
+			<state>South Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Clemson Tigers and Lady Tigers clemson tigers">
+			<name>Clemson Tigers and Lady Tigers</name>
+			<school>Clemson University</school>
+			<city>Clemson</city>
+			<state>South Carolina</state>
+			<colors>Orange, Regalia</colors>
+			<tagName>Clemson, University, Tigers, The Tiger</tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short>Clemson</short>
+			<stadium>Memorial Stadium, Clemson</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Coastal Carolina Chanticleers and Lady Chants</name>
+			<school>Coastal Carolina University</school>
+			<city>Conway</city>
+			<state>South Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big South</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Furman Paladins">
+			<name>Furman Paladins and Lady Paladins</name>
+			<school>Furman University</school>
+			<city>Greenville</city>
+			<state>South Carolina</state>
+			<colors>Royal Purple, White</colors>
+			<tagName>Furman, University, Paladin, Paladins</tagName>
+			<tagConference>Southern</tagConference>
+			<division>Division I</division>
+			<short>Furman</short>
+			<stadium>Paladin Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Presbyterian Blue Hose">
+			<name>Presbyterian Blue Hose</name>
+			<school>Presbyterian College</school>
+			<city>Clinton</city>
+			<state>South Carolina</state>
+			<colors>Garnet, Blue</colors>
+			<tagName>Presbyterian, College, Blue, Hose, PC</tagName>
+			<tagConference>Big South, Conference</tagConference>
+			<division>Division I</division>
+			<short>Presbyterian</short>
+			<stadium>Bailey Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="South Carolina Gamecocks SC Gamecocks">
+			<name>South Carolina Gamecocks</name>
+			<school>University of South Carolina</school>
+			<city>Columbia</city>
+			<state>South Carolina</state>
+			<colors>Garnet, Black</colors>
+			<tagName>South Carolina, USC, SC, Gamecocks, Cocky, University, of</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>South Carolina</short>
+			<stadium>Williams-Brice Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="South Carolina State Bulldogs and Lady Bulldogs">
+			<name>South Carolina State Bulldogs and Lady Bulldogs</name>
+			<school>South Carolina State University</school>
+			<city>Orangeburg</city>
+			<state>South Carolina</state>
+			<colors>Garnet, Blue</colors>
+			<tagName>South Carolina State, University, Bulldogs, Bulldog</tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short>South Carolina State</short>
+			<stadium>Oliver C. Dawson Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>USC Upstate Spartans A</name>
+			<school>University of South Carolina Upstate</school>
+			<city>Spartanburg</city>
+			<state>South Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic Sun, A-Sun, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name> Winthrop Eagles and Lady Eagles</name>
+			<school>Winthrop University</school>
+			<city>Rock Hill</city>
+			<state>South Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big South</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Wofford Terriers</name>
+			<school>Wofford College</school>
+			<city>Spartanburg</city>
+			<state>South Carolina</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southern</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="South Dakota">
+		<team name="">
+			<name>South Dakota Coyotes</name>
+			<school>University of South Dakota</school>
+			<city>Vermillion</city>
+			<state>South Dakota</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Summit / MVFC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>South Dakota State Jackrabbits</name>
+			<school>South Dakota State University</school>
+			<city>Brookings</city>
+			<state>South Dakota</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Summit / MVFC</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Tennessee">
+
+		<funfact id="ff1">ETSU will rejoin the Southern tagConference in
+			July 2014 after a 9-year absence.</funfact>
+		<funfact id="ff2">The formal nickname for women's teams is "Lady
+			Volunteers". However, the school considers the use of "Lady Vols"
+			acceptable, and the shortened form is widely popular in Tennessee and
+			in much wider usage among national media than the longer form.
+		</funfact>
+
+		<team name="">
+			<name>Austin Peay Governors and Lady Govs</name>
+			<school>Austin Peay State University</school>
+			<city>Clarksville</city>
+			<state>Tennessee</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ohio Valley, OVC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Belmont Bruins</name>
+			<school>Belmont University</school>
+			<city>Nashville</city>
+			<state>Tennessee</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ohio Valley, OVC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Chattanooga Mocs UT Chattanooga">
+			<name>Chattanooga Mocs and Lady Mocs</name>
+			<school>University of Tennessee at Chattanooga</school>
+			<city>Chattanooga</city>
+			<state>Tennessee</state>
+			<colors>Navy, Old Gold</colors>
+			<tagName>Chattanooga, University, of, Tennessee at Chattanooga, CHAT, Mocs, Scrappy the Mocking Bird, Lady</tagName>
+			<tagConference>Southern, Conference, SoCon</tagConference>
+			<division>Division I</division>
+			<short>UT Chattanooga</short>
+			<stadium>Finley Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>ETSU Buccaneers and Lady Bucs</name>
+			<school>East Tennessee State University</school>
+			<city>Johnson City</city>
+			<state>Tennessee</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic Sun, A-Sun, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Lipscomb Bisons and Lady Bisons</name>
+			<school>Lipscomb University</school>
+			<city>Nashville</city>
+			<state>Tennessee</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic Sun, A-Sun, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Memphis Tigers">
+			<name>Memphis Tigers and Lady Tigers</name>
+			<school>University of Memphis</school>
+			<city>Memphis</city>
+			<state>Tennessee</state>
+			<colors>Blue, Gray</colors>
+			<tagName>Memphis, University, of, UM, Tigers, TOM, Pouncer</tagName>
+			<tagConference>American Athletic Conference, AAC, The American</tagConference>
+			<division>Division I</division>
+			<short>Memphis</short>
+			<stadium>Liberty Bowl Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Middle Tennessee Blue Raiders">
+			<name>Middle Tennessee Blue Raiders</name>
+			<school>Middle Tennessee State University</school>
+			<city>Murfreesboro</city>
+			<state>Tennessee</state>
+			<colors>Royal Blue, White</colors>
+			<tagName>Middle Tennessee, State, University, Lightning, MTSU, Blue Raiders</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>Middle Tennessee</short>
+			<stadium>Johnny "Red" Floyd Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Tennessee Volunteers vols Vols">
+			<name>Tennessee Volunteers and Lady Vols</name>
+			<school>University of Tennessee</school>
+			<city>Knoxville</city>
+			<state>Tennessee</state>
+			<colors>Orange</colors>
+			<tagName>Tennessee, University, of, Knoxville, UT, UTK, Volunteers, Lady, Smokey IX, Rocky Top</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>Tennessee</short>
+			<stadium>Neyland Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Tennessee Martin Skyhawks UT Martin">
+			<name>Tennessee-Martin Skyhawks</name>
+			<school>University of Tennessee at Martin</school>
+			<city>Martin</city>
+			<state>Tennessee</state>
+			<colors>Orange, Blue</colors>
+			<tagName>Tennessee, at, Martin, University, of, UT Martin, Skyhawks, Captain Skyhawk</tagName>
+			<tagConference>Ohio Valley, OVC, Conference</tagConference>
+			<division>Division I</division>
+			<short>UT Martin</short>
+			<stadium>Graham Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Tennessee State Tigers and Lady Tigers</name>
+			<school>Tennessee State University</school>
+			<city>Nashville</city>
+			<state>Tennessee</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ohio Valley, OVC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Tennessee Tech Golden Eagles</name>
+			<school>Tennessee Technological University</school>
+			<city>Cookeville</city>
+			<state>Tennessee</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Ohio Valley, OVC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Vanderbilt Commodores">
+			<name>Vanderbilt Commodores</name>
+			<school>Vanderbilt University</school>
+			<city>Nashville</city>
+			<state>Tennessee</state>
+			<colors>Black, Gold</colors>
+			<tagName>Vanderbilt, Vandy, University, VU, Commodores, Mr. Commodore</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>Vanderbilt</short>
+			<stadium>Vanderbilt Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="Texas">
+		<funfact id="ff1">The women's basketball team uses "Lady Raiders";
+			all other women's teams use "Red Raiders".</funfact>
+			
+		<team name="Abilene Christian Wildcats">
+			<name>Abilene Christian Wildcats</name>
+			<school>Abilene Christian University</school>
+			<city>Abilene</city>
+			<state>Texas</state>
+			<colors>Purple, White</colors>
+			<tagName>Abilene Christian, University, ACU, Wildcats, Willie the Wildcat</tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short>Abilene Christian</short>
+			<stadium>Shotwell Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Baylor Bears and Lady Bears">
+			<name>Baylor Bears and Lady Bears</name>
+			<school>Baylor University</school>
+			<city>Waco</city>
+			<state>Texas</state>
+			<colors>Green</colors>
+			<tagName>Baylor, BU, University, Bears, Judge Joy, Judge Lady, Bruiser</tagName>
+			<tagConference>Big 12, Big-12, Big Twelve, Big XII, Conference</tagConference>
+			<division>Division I</division>
+			<short>Baylor</short>
+			<stadium>McLane Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Houston Cougars">
+			<name>Houston Cougars</name>
+			<school>University of Houston</school>
+			<city>Houston</city>
+			<state>Texas</state>
+			<colors>Scarlet Red, Albino White</colors>
+			<tagName>Houston, University, of, UH, Cougars, Shasta</tagName>
+			<tagConference>American Athletic Conference, AAC, The American</tagConference>
+			<division>Division I</division>
+			<short>Houston</short>
+			<stadium>TDECU Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Houston Baptist Huskies</name>
+			<school>Houston Baptist University</school>
+			<city>Houston</city>
+			<state>Texas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Incarnate Word Cardinals</name>
+			<school>University of the Incarnate Word</school>
+			<city>San Antonio</city>
+			<state>Texas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Lamar Cardinals Lady Cardinals">
+			<name>Lamar Cardinals and Lady Cardinals</name>
+			<school>Lamar University</school>
+			<city>Beaumont</city>
+			<state>Texas</state>
+			<colors>Red, White</colors>
+			<tagName>Lamar, University, LU, Cardinals, Big Red</tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short>Lamar</short>
+			<stadium>Provost Umphrey Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="North Texas Mean Green">
+			<name>North Texas Mean Green</name>
+			<school>University of North Texas</school>
+			<city>Denton</city>
+			<state>Texas</state>
+			<colors>Green, White, Black</colors>
+			<tagName>North Texas, University, of, UNT, Mean Green, Eagles, Scrappy</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>North Texas</short>
+			<stadium>Apogee Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Prairie View A and M Panthers and Lady Panthers</name>
+			<school>Prairie View A and M University</school>
+			<city>Prairie View</city>
+			<state>Texas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>SWAC, Western Athletic, Conference, Southwestern Athletic, Conference,
+			</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Rice Owls">
+			<name>Rice Owls</name>
+			<school>Rice University</school>
+			<city>Houston</city>
+			<state>Texas</state>
+			<colors>Blue, Gray</colors>
+			<tagName>Rice, University, Owls, Sammy the Owl</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>Rice</short>
+			<stadium>Rice Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Sam Houston State Bearkats">
+			<name>Sam Houston State Bearkats</name>
+			<school>Sam Houston State University</school>
+			<city>Huntsville</city>
+			<state>Texas</state>
+			<colors>Orange, White</colors>
+			<tagName>Sam Houston State, University, SHSU, Sam, Bearkats, Sammy Bearkat</tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short>Sam Houston State</short>
+			<stadium>Bowers Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="SMU Mustangs smu">
+			<name>SMU Mustangs</name>
+			<school>Southern Methodist University</school>
+			<city>Dallas</city>
+			<state>Texas</state>
+			<colors>White, Red, Blue</colors>
+			<tagName>SMU, Southern, Methodist, University, Mustangs, Peruna</tagName>
+			<tagConference>American Athletic Conference, AAC, The American</tagConference>
+			<division>Division I</division>
+			<short>SMU</short>
+			<stadium>Gerald J. Ford Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Stephen F. Austin Lumberjacks and Ladyjacks</name>
+			<school>Stephen F. Austin State University</school>
+			<city>Nacogdoches</city>
+			<state>Texas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="TCU Horned Frogs Texas Christian">
+			<name>TCU Horned Frogs and Lady Frogs</name>
+			<school>Texas Christian University</school>
+			<city>Fort Worth</city>
+			<state>Texas</state>
+			<colors>Purple, White</colors>
+			<tagName>TCU, Texas Christian, University, Horned Frogs, Super Frog</tagName>
+			<tagConference>Big 12, Big-12, Big Twelve, Big XII, Conference</tagConference>
+			<division>Division I</division>
+			<short>TCU</short>
+			<stadium>Amon G. Carter Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Texas Longhorns">
+			<name>Texas Longhorns</name>
+			<school>University of Texas at Austin</school>
+			<city>Austin</city>
+			<state>Texas</state>
+			<colors>Burnt Orange, White</colors>
+			<tagName>Texas, University, of, at, Austin, UT Austin, UT, Longhorns, Bevo, Hook 'em</tagName>
+			<tagConference>Big 12, Big-12, Big Twelve, Big XII, Conference</tagConference>
+			<division>Division I</division>
+			<short>Texas</short>
+			<stadium>Darrell K Royal-Texas Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Texas A and M Aggies Texas A_M">
+			<name>Texas A and M Aggies</name>
+			<school>Texas A and M University</school>
+			<city>College Station</city>
+			<state>Texas</state>
+			<colors>Maroon, White</colors>
+			<tagName>Texas A_M, University, A_M, TAMU, Aggies, Reveille</tagName>
+			<tagConference>SEC, Southeastern, Conference</tagConference>
+			<division>Division I</division>
+			<short>Texas A_M</short>
+			<stadium>Kyle Field</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Texas A and M Corpus Christi Islanders</name>
+			<school>Texas A and M University Corpus Christi</school>
+			<city>Corpus Christi</city>
+			<state>Texas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Texas Southern Tigers and Lady Tigers</name>
+			<school>Texas Southern University</school>
+			<city>Houston</city>
+			<state>Texas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>SWAC, Western Athletic, Conference, Southwestern Athletic, Conference,
+			</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Texas State Bobcats">
+			<name>Texas State Bobcats</name>
+			<school>Texas State University San Marcos</school>
+			<city>San Marcos</city>
+			<state>Texas</state>
+			<colors>Maroon, Old Gold</colors>
+			<tagName>Texas State, University, San Marcos, Bobcats, Boko the Bobcat</tagName>
+			<tagConference>Sun Belt, SB, SBC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Texas State</short>
+			<stadium>Bobcat Stadium (Texas State)</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Texas Tech Red Raiders and Lady Raiders texas tech red raiders">
+			<name>Texas Tech Red Raiders and Lady Raiders</name>
+			<school>Texas Tech University</school>
+			<city>Lubbock</city>
+			<state>Texas</state>
+			<colors>Scarlet, Black</colors>
+			<tagName>Texas Tech, TTU, University, Red Raiders, Masked Rider, Raider Red</tagName>
+			<tagConference>Big 12, Big-12, Big Twelve, Big XII, Conference</tagConference>
+			<division>Division I</division>
+			<short>Texas Tech</short>
+			<stadium>Jones AT_T Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="UT Arlington Mavericks">
+			<name>UT Arlington Mavericks</name>
+			<school>University of Texas at Arlington</school>
+			<city>Arlington</city>
+			<state>Texas</state>
+			<colors>Blue, White, Orange</colors>
+			<tagName>UT Arlington, UT-Arlington, University, of , Texas at Arlington, Mavericks, Blaze</tagName>
+			<tagConference>Southland, SL, Conference</tagConference>
+			<division>Division I</division>
+			<short>UT Arlington</short>
+			<stadium>Maverick Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="UTSA Roadrunners utsa">
+			<name>UTSA Roadrunners</name>
+			<school>University of Texas at San Antonio</school>
+			<city>San Antonio</city>
+			<state>Texas</state>
+			<colors>Orange, Blue</colors>
+			<tagName>UTSA, The, University, of, Texas, at, San Antonio, Roadrunners, Rowdy</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>UTSA</short>
+			<stadium>Alamodome</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="UTEP Miners utep">
+			<name>UTEP Miners</name>
+			<school>University of Texas at El Paso</school>
+			<city>El Paso</city>
+			<state>Texas</state>
+			<colors>Orange, Blue</colors>
+			<tagName>UTEP, University, of, Texas, at El Paso, Miners, Paydirt Pete</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>UTEP</short>
+			<stadium>Sun Bowl Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>UTPA Broncs and Lady Broncs</name>
+			<school>University of Texas Pan American</school>
+			<city>Edinburg</city>
+			<state>Texas</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>WAC, Western Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport> </sport>
+		</team>
+	</state>
+
+	<state id="Utah">
+
+		<team name="Brigham Young University BYU Cougars byu cougars">
+			<name>BYU Cougars</name>
+			<school>Brigham Young University</school>
+			<city>Provo</city>
+			<state>Utah</state>
+			<colors>BYU Blue, White</colors>
+			<tagName>BYU, Brigham Young, University, Cougars, Cosmo the Cougar</tagName>
+			<tagConference>Independent</tagConference>
+			<division>Division I</division>
+			<short>BYU</short>
+			<stadium>LaVell Edwards Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Southern Utah Thunderbirds and Lady Thunderbirds</name>
+			<school>Southern Utah University</school>
+			<city>Cedar City</city>
+			<state>Utah</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big Sky, BSC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Utah Utes</name>
+			<school>University of Utah</school>
+			<city>Salt Lake City</city>
+			<state>Utah</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Pac-12, Pacific-12, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Utah State Aggies aggies">
+			<name>Utah State Aggies</name>
+			<school>Utah State University</school>
+			<city>Logan</city>
+			<state>Utah</state>
+			<colors>White</colors>
+			<tagName>Utah State, University, USU, Aggies, Big Blue</tagName>
+			<tagConference>Mountain West, MWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Utah State</short>
+			<stadium>Romney Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Utah Valley Wolverines</name>
+			<school>Utah Valley University</school>
+			<city>Orem</city>
+			<state>Utah</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>WAC, Western Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Weber State Wildcats</name>
+			<school>Weber State University</school>
+			<city>Ogden</city>
+			<state>Utah</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big Sky, BSC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="Vermont">
+		<team name="">
+			<name>Vermont Catamounts</name>
+			<school>University of Vermont</school>
+			<city>Burlington</city>
+			<state>Vermont</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>America East</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="Virginia">
+		<funfact>The Old Dominion Football team is an FCS independent for the
+			2013 season before joining Conference USA, C-USA, for Football in
+			2014.</funfact>
+		<team name="">
+			<name>George Mason Patriots</name>
+			<school>George Mason University</school>
+			<city>Fairfax</city>
+			<state>Virginia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic 10</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Hampton Pirates and Lady Pirates</name>
+			<school>Hampton University</school>
+			<city>Hampton</city>
+			<state>Virginia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>James Madison Dukes</name>
+			<school>James Madison University</school>
+			<city>Harrisonburg</city>
+			<state>Virginia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>CAA</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Liberty Flames">
+			<name>Liberty Flames and Lady Flames</name>
+			<school>Liberty University</school>
+			<city>Lynchburg</city>
+			<state>Virginia</state>
+			<colors>Navy, Red</colors>
+			<tagName>Liberty, University, Flames, Sparky</tagName>
+			<tagConference>Big South</tagConference>
+			<division>Division I</division>
+			<short>Liberty</short>
+			<stadium>Williams Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Longwood Lancers</name>
+			<school>Longwood University</school>
+			<city>Farmville</city>
+			<state>Virginia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big South</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Norfolk State Spartans</name>
+			<school>Norfolk State University</school>
+			<city>Norfolk</city>
+			<state>Virginia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Mid-Eastern Athletic Conference, MEAC, Mid Eastern Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Old Dominion Monarchs">
+			<name>Old Dominion Monarchs and Lady Monarchs</name>
+			<school>Old Dominion University</school>
+			<city>Norfolk</city>
+			<state>Virginia</state>
+			<colors>Slate Blue, Silver</colors>
+			<tagName>Old Dominion, University, ODU, Monarchs, Billy Blue</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>Old Dominion</short>
+			<stadium>Foreman Field at S.B. Ballard Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Radford Highlanders</name>
+			<school>Radford University</school>
+			<city>Radford</city>
+			<state>Virginia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big South</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Richmond Spiders</name>
+			<school>University of Richmond</school>
+			<city>Richmond</city>
+			<state>Virginia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic 10</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>VCU Rams</name>
+			<school>Virginia Commonwealth University</school>
+			<city>Richmond</city>
+			<state>Virginia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Atlantic 10</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="">
+			<name>Virginia Cavaliers</name>
+			<school>University of Virginia</school>
+			<city>Charlottesville</city>
+			<state>Virginia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="VMI Keydets">
+			<name>VMI Keydets</name>
+			<school>Virginia Military Institute</school>
+			<city>Lexington</city>
+			<state>Virginia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big South</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Virginia Tech Hokies">
+			<name>Virginia Tech Hokies</name>
+			<school>Virginia Polytechnic Institute and State University</school>
+			<city>Blacksburg</city>
+			<state>Virginia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>ACC, Atlantic, Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="William and Mary Tribe">
+			<name>William and Mary Tribe</name>
+			<school>The College of William and Mary</school>
+			<city>Williamsburg</city>
+			<state>Virginia</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>CAA</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="Washington">
+		<team name="Eastern Washington Eagles">
+			<name>Eastern Washington Eagles</name>
+			<school>Eastern Washington University</school>
+			<city>Cheney</city>
+			<state>Washington</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big Sky, BSC, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Gonzaga Bulldogs">
+			<name>Gonzaga Bulldogs</name>
+			<school>Gonzaga University</school>
+			<city>Spokane</city>
+			<state>Washington</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>WCC, West Coast, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Seattle Redhawks">
+			<name>Seattle Redhawks</name>
+			<school>Seattle University</school>
+			<city>Seattle</city>
+			<state>Washington</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>WAC, Western Athletic, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Washington Huskies">
+			<name>Washington Huskies</name>
+			<school>University of Washington</school>
+			<city>Seattle</city>
+			<state>Washington</state>
+			<colors>Purple and Gold</colors>
+			<tagName>Washington, University, of, Washington, Huskies, UW</tagName>
+			<tagConference>Pac-12, Pacific-12, Conference</tagConference>
+			<division>Division I</division>
+			<short>Washington</short>
+			<stadium>Husky Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Washington State Cougars">
+			<name>Washington State Cougars</name>
+			<school>Washington State University</school>
+			<city>Pullman</city>
+			<state>Washington</state>
+			<colors>Crimson, Gray</colors>
+			<tagName>Weber State, University, Wildcats, WSU, Waldo the Wildcat</tagName>
+			<tagConference>Pac-12, Pacific-12, Conference</tagConference>
+			<division>Division I</division>
+			<short>Washington State</short>
+			<stadium>Martin Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+	<state id="West Virginia">
+
+		<team name="Marshall Thundering Herd">
+
+			<name>Marshall Thundering Herd</name>
+			<school>Marshall University</school>
+			<city>Huntington</city>
+			<state>West Virginia</state>
+			<colors>Kelly Green, White</colors>
+			<tagName>Marshall, University, The Thundering Herd, Marco</tagName>
+			<tagConference>Conference USA, C-USA</tagConference>
+			<division>Division I</division>
+			<short>Marshall</short>
+			<stadium>Joan C. Edwards Stadium</stadium>
+			<sport>Football</sport>
+
+		</team>
+
+		<team name="West Virginia Mountaineers">
+
+			<name>West Virginia Mountaineers</name>
+			<school>West Virginia University</school>
+			<city>Morgantown</city>
+			<state>West Virginia</state>
+			<colors>Old Gold, Blue</colors>
+			<tagName>West Virginia, University, WVU, Mountaineers, The Mountaineer</tagName>
+			<tagConference>Big 12, Big-12, Big Twelve, Big XII, Conference</tagConference>
+			<division>Division I</division>
+			<short>WVU</short>
+			<stadium>Mountaineer Field at Milan Puskar Stadium</stadium>
+			<sport>Football</sport>
+
+		</team>
+
+	</state>
+
+	<state id="Wisconsin">
+
+		<funfact id="ff1">The school officially uses "Milwaukee" for its
+			athletic program, and accepts "UWM" however, the Milwaukee
+			Journal-Sentinel has yet to accept this, instead using "Wisconsin
+			Milwaukee".</funfact>
+		<funfact id="ff2">Most national media outlets use "Milwaukee"
+		</funfact>
+
+		<team name="Marquette Golden Eagles">
+			<name>Marquette Golden Eagles</name>
+			<school>Marquette University</school>
+			<city>Milwaukee</city>
+			<state>Wisconsin</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Big East, Big-East, BE, Conference</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Milwaukee Panthers">
+			<name>Milwaukee Panthers</name>
+			<school>University of Wisconsin Milwaukee</school>
+			<city>Milwaukee</city>
+			<state>Wisconsin</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Horizon League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Green Bay Phoenix">
+			<name>Green Bay Phoenix</name>
+			<school>University of Wisconsin Green Bay</school>
+			<city>Green Bay</city>
+			<state>Wisconsin</state>
+			<colors> </colors>
+			<tagName> </tagName>
+			<tagConference>Horizon League</tagConference>
+			<division>Division I</division>
+			<short> </short>
+			<stadium> </stadium>
+			<sport>Football</sport>
+		</team>
+		<team name="Wisconsin Badgers">
+			<name>Wisconsin Badgers</name>
+			<school>University of Wisconsin Madison</school>
+			<city>Madison</city>
+			<state>Wisconsin</state>
+			<colors>Cardinal, White</colors>
+			<tagName>Wisconsin, University, of, Madison, UW, Badgers</tagName>
+			<tagConference>Big 10, Big Ten, Conference</tagConference>
+			<division>Division I</division>
+			<short>Wisconsin</short>
+			<stadium>Camp Randall Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+
+	</state>
+
+	<state id="Wyoming" value="Wyoming">
+		<team name="Wyoming Cowboys and Cowgirls">
+			<name>Wyoming Cowboys and Cowgirls</name>
+			<school>University of Wyoming</school>
+			<city>Laramie</city>
+			<state>Wyoming</state>
+			<colors>Brown, Gold</colors>
+			<tagName>Wyoming, University, of, UW, Cowboys, Cowgirls, Cowboy Joe, Pistol Pete</tagName>
+			<tagConference>Mountain West, MWC, Conference</tagConference>
+			<division>Division I</division>
+			<short>Wyoming</short>
+			<stadium>War Memorial Stadium</stadium>
+			<sport>Football</sport>
+		</team>
+	</state>
+
+</stateList>

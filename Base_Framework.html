@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<!-- 
+Hello, 
+I, Daniel McFarland, am the author of this page. I made it to speed up my work at XOS Digital.
+
+This page is intended to speed up work and allow for uniform, complete, tags. These "tags" help videos in the vault to be searched.
+
+Another function of this app is to add a level of correctness to the data in the XOS vault. 
+
+Author: Daniel McFarland
+Must seek consent to use this page.
+All rights held and reserved by Daniel Aaron McFarland.
+-->
+
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Tags And More for Firefox</title>
+</head>
+<body background="bg_content.jpg">
+	<div id="wrapper">
+
+		<form name="search_form" id="searchForm" method="GET"
+			action="demo_form.asp" autocomplete="on" onSubmit="return false">
+
+			<input type="text" placeholder="Date" id="dateDate" name="dateDate" />
+			<input type="text" placeholder="Away Team" id="searchBox2"
+				name="searchString1" /> 
+				<input type="text" placeholder="Home Team"
+				id="searchBox1" name="searchString1" />
+
+			<button name="searchKeyword" id="searchKeyword" onClick="fun()">Search</button>
+			<button onClick="clearAll()">Clear</button>
+
+			<select name="sportFeeds" id="sportFeeds">
+				<option value="football" selected>Football</option>
+				<option value="mbb" >MBB</option>
+				<option value="wbb">WBB</option>
+				<option value="nhl">NHL</option>
+
+			</select> 
+			<select name="videoFeeds" id="videoFeeds">
+				<option value="Satellite Feed">Satellite Feed</option>
+				<option value="Cable Feed" selected>Cable Feed</option>
+				<option value="Stream Feed">Stream Feed</option>
+				<option value="Woodlands Encoder Feed">Woodlands Encoder
+					Feed</option>
+			</select>
+
+			<!--   #11_16_2014#football#SEC#UCF#OleMiss -->
+
+			<input id="statsCheck" type="checkbox" value="xosstats" /> 
+			
+			<input type="text" style="background-color: #FFF" value="XOS Stats" />
+
+		</form>
+		<form name='submitquestion'>
+
+			<textarea name="textOut2" placeholder="Away Team Information"
+				title="first" id="textOut2" rows="12" cols="60"></textarea>
+			<textarea name="textOut1" placeholder="Home Team Information"
+				title="first" id="textOut1" rows="12" cols="60"></textarea>
+			<textarea name="textOut3" placeholder="Generated Tags" id="textOut3"
+				rows="12" cols="60"></textarea>
+			<textarea name="textOut4" placeholder="Generated Title" id="textOut4"
+				rows="5" cols="60"></textarea>
+			<textarea name="textOut5" placeholder="Generated Description"
+				id="textOut5" rows="10" cols="60">* quarterback * completed * of * passes for * yards and scored * touchdowns. * rushed for * yards on * carries and scored a touchdown. * gained * yards on * receptions. * quarterback * completed * of * passes for * yards. * rushed for * yards on * carries and scored * touchdowns.</textarea>
+			<textarea name="textOut6" placeholder="Generated Title" id="textOut6"
+				rows="5" cols="60"></textarea>
+		</form>
+		<script type="text/javascript">
+		
+			function loadXMLDoc(dname) {
+				
+				if (window.XMLHttpRequest) {
+					
+					xhttp = new XMLHttpRequest();
+				} else {
+					
+					xhttp = new ActiveXObject("Microsoft.XMLHTTP");
+				}
+
+				xhttp.open("GET", dname, false);
+				try {
+					xhttp.responseType = "msxml-document"
+				} catch (err) {
+				} // Helping IE
+				xhttp.send("");
+				return xhttp;
+			}
+			function clearAll() {
+				document.getElementById('textOut1').value = '';
+				document.getElementById('textOut2').value = '';
+				document.getElementById('textOut3').value = '';
+				document.getElementById('textOut4').value = '';
+				document.getElementById('searchBox1').value = '';
+				document.getElementById('searchBox2').value = '';
+				document.getElementById('dateDate').value = '';
+			}
+			function fun() {
+				var search1 = document.getElementById('searchBox1').value;
+				var search2 = document.getElementById('searchBox2').value;
+
+				var x = loadXMLDoc("database.xml");
+				var xml = x.responseXML;
+
+				var AllPath1 = "//team[contains(@name, '" + search1 + "')]/*";
+				var AllPath2 = "//team[contains(@name, '" + search2 + "')]/*";
+				var pconference1 = "//team[contains(@name, '" + search1
+						+ "')]/tagConference";
+				var pconference2 = "//team[contains(@name, '" + search2
+						+ "')]/tagConference";
+				var pteam1 = "//team[contains(@name, '" + search1
+						+ "')]/tagName";
+				var pteam2 = "//team[contains(@name, '" + search2
+						+ "')]/tagName";
+				var pstadiumName = "//team[contains(@name, '" + search1
+						+ "')]/stadium";
+				var phomeCity = "//team[contains(@name, '" + search1
+						+ "')]/city";
+				var phomeState = "//state/team[contains(@name, '" + search1
+						+ "')]/state";
+				var pmin1 = "//team[contains(@name, '" + search1 + "')]/short";
+				var pmin2 = "//team[contains(@name, '" + search2 + "')]/short";
+				var psport = "//team[contains(@name, '" + search1 + "')]/sport";
+
+				var nodes1 = xml.evaluate(AllPath1, xml, null,
+						XPathResult.ANY_TYPE, null);
+				var nodes2 = xml.evaluate(AllPath2, xml, null,
+						XPathResult.ANY_TYPE, null);
+				var nconference1 = xml.evaluate(pconference1, xml, null,
+						XPathResult.ANY_TYPE, null);
+				var nconference2 = xml.evaluate(pconference2, xml, null,
+						XPathResult.ANY_TYPE, null);
+				var nteam1 = xml.evaluate(pteam1, xml, null,
+						XPathResult.ANY_TYPE, null);
+				var nteam2 = xml.evaluate(pteam2, xml, null,
+						XPathResult.ANY_TYPE, null);
+				var nstadiumName = xml.evaluate(pstadiumName, xml, null,
+						XPathResult.ANY_TYPE, null);
+				var nhomeCity = xml.evaluate(phomeCity, xml, null,
+						XPathResult.ANY_TYPE, null);
+				var nhomeState = xml.evaluate(phomeState, xml, null,
+						XPathResult.ANY_TYPE, null);
+				var nmin1 = xml.evaluate(pmin1, xml, null,
+						XPathResult.ANY_TYPE, null);
+				var nmin2 = xml.evaluate(pmin2, xml, null,
+						XPathResult.ANY_TYPE, null);
+				var nsport = xml.evaluate(psport, xml, null,
+						XPathResult.ANY_TYPE, null);
+
+				var result1 = nodes1.iterateNext();
+				var result2 = nodes2.iterateNext();
+				var rconference1 = nconference1.iterateNext();
+				var rconference2 = nconference2.iterateNext();
+				var rteam1 = nteam1.iterateNext();
+				var rteam2 = nteam2.iterateNext();
+				var rstadiumName = nstadiumName.iterateNext();
+				var rhomeCity = nhomeCity.iterateNext();
+				var rhomeState = nhomeState.iterateNext();
+				var rmin1 = nmin1.iterateNext();
+				var rmin2 = nmin2.iterateNext();
+				var rsport = nsport.iterateNext();
+
+				var string1 = '';
+				var string2 = '';
+				var conference1 = '';
+				var conference2 = '';
+				var team1 = '';
+				var team2 = '';
+				var stadiumName = '';
+				var homeCity = '';
+				var homeState = '';
+				var min1 = '';
+				var min2 = '';
+
+				var sport = '';
+
+				while (result1) {
+					string1 = string1 + result1.childNodes[0].nodeValue + '\n';
+
+					result1 = nodes1.iterateNext();
+				}
+
+				document.getElementById('textOut1').value = string1;
+
+				while (result2) {
+					string2 = string2 + result2.childNodes[0].nodeValue + '\n';
+
+					result2 = nodes2.iterateNext();
+				}
+
+				document.getElementById('textOut2').value = string2;
+
+				var today = new Date();
+				var dd = today.getDate();
+				var mm = today.getMonth() + 1; //January is 0!
+				var yyyy = today.getFullYear();
+
+				if (dd < 10) {
+					dd = '0' + dd
+				}
+
+				if (mm < 10) {
+					mm = '0' + mm
+				}
+
+				today = mm + '/' + dd + '/' + yyyy;
+
+				conference1 = rconference1.childNodes[0].nodeValue;
+				conference2 = rconference2.childNodes[0].nodeValue;
+
+				team1 = rteam1.childNodes[0].nodeValue;
+				team2 = rteam2.childNodes[0].nodeValue;
+
+				stadiumName = rstadiumName.childNodes[0].nodeValue;
+				homeCity = rhomeCity.childNodes[0].nodeValue;
+				homeState = rhomeState.childNodes[0].nodeValue;
+
+				min1 = rmin1.childNodes[0].nodeValue;
+				min2 = rmin2.childNodes[0].nodeValue;
+
+				sport = rsport.childNodes[0].nodeValue;
+
+				// make sport for check box.
+
+				if (conference1 == conference2)
+					conference2 = "";
+				else
+					conference2 = ', ' + conference2;
+
+				//		if (sport == 'Baseball')
+				//			sport = 'Baseball, CBB, NCAA, University, College, vs, ';
+
+				if (sport == 'Football')
+					sport = 'Football, CFB, NCAA, University, College, vs, ';
+
+				//		else if (sport == 'Gymnastics')
+				//			sport = 'Gymnastics, NCAA, University, College, vs, ';
+
+				else if (sport == 'MBB')
+					sport = 'Mens, Men, Mens, Basketball, MBB, University, NCAA, College, vs, ';
+
+				//		else if (sport == 'MLAX')
+				//			sport = 'Mens Lacrosse, NCAA, College, vs, Lacrosse, LAX, MLAX, ';
+
+				//		else if (sport == 'Mens Soccer')
+				//			sport = 'Mens Soccer, NCAA, College, Soccer, vs, University, ';
+
+				//		else if (sport == 'Softball')
+				//			sport = 'Softball, NCAA, University, College, vs, ';
+
+				//		else if (sport == 'Track and Field')
+				//			sport = 'Track and Field, NCAA, University, College, vs, ';
+
+				else if (sport == 'WBB')
+					sport = 'Womens, Women, Basketball, Womens, WBB, University, NCAA, College, vs, ';
+
+				//		else if (sport == 'WLAX')
+				//			sport = 'Womens Lacrosse, NCAA, University, College, Lacrosse, LAX, WLAX, vs, ';
+
+				//		else if (sport == 'Womens Soccer')
+				//			sport = 'Womens Soccer, NCAA, University, College, Soccer, vs, ';
+
+				//		else if (sport == 'Womens Volleyball')
+				//			sport = 'Womens Volleyball, NCAA, University, College, WVB, vs, ';
+
+				//		else if (sport == 'Wrestling')
+				//			sport = 'Wrestling, NCAA, University, College, vs, ';
+
+				today = document.getElementById('dateDate').value;
+
+				var tagString = today + ', ' + yyyy + ', ' + sport
+						+ conference1 + conference2 + ', ' + team2 + ', '
+						+ team1 + ', ' + stadiumName + ', ' + homeCity + ', '
+						+ homeState + ', ' + min2 + ' vs ' + min1;
+
+				document.getElementById('textOut3').value = tagString;
+
+				var videoFeed = document.getElementById('videoFeeds').value;
+
+				var title = today + ' ' + min2 + ' vs ' + min1 + ' Football '
+						+ videoFeed;
+
+				document.getElementById('textOut4').value = title;
+			}
+		</script>
+	</div>
+</body>
+<!-- 
+	Hello, 
+	I, Daniel McFarland, am the author of this page. I made it to speed up my work at XOS Digital.
+	
+	This page is intended to speed up work and allow for uniform, complete, tags. These "tags" help videos in the vault to be searched.
+	
+	Author: Daniel McFarland
+	Must seek consent to use this page.
+	All rights reserved.
+-->
+</html>
